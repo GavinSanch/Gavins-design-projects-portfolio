@@ -28,7 +28,7 @@ Part D-Professional Tone:
 
 Task B: Product Analysis
 
-My Product is a 5/16 S*K Wrench that consists of one solid high carbon alloy steel component
+My Product is a 5/16 S*K Wrench that consists of one solid high carbon alloy steel that consists of three components
 
 <img width="3070" height="1258" alt="IMG_3320" src="https://github.com/user-attachments/assets/59cd5292-9e01-4234-bf41-20561fd2c688" />
 
