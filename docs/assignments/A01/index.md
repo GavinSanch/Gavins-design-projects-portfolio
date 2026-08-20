@@ -28,15 +28,27 @@ Part D-Professional Tone:
 
 Task B: Product Analysis
 
-My Product is a 5/16 S*K Wrench that consists of one solid metal component
+My Product is a 5/16 S*K Wrench that consists of one solid high carbon alloy steel component
 
 <img width="3070" height="1258" alt="IMG_3320" src="https://github.com/user-attachments/assets/59cd5292-9e01-4234-bf41-20561fd2c688" />
 
-Part A-
+Part A- My product has two sole purposes it must be able to tighten and loosen bolts when a force is applied to it, it must be able to perform this task without breaking/fracturing/bending in any sort of way and must be able to have a long-lasting life as a tool.
 
-Part B-
+Part B- The main governing equation that defines my product is torque which is known by many engineers as a force times a lever arm/distance, the reason this equation is valid for this product as it is its only purpose to apply a torque to bolts to either loosen or tighten them 
 
 Part C-
+
+<img width="1107" height="1414" alt="IMG_3321" src="https://github.com/user-attachments/assets/80f9fc4b-f735-4cd9-803d-415b8f6dbd1b" />
+
+
+
+<img width="2530" height="993" alt="IMG_3323" src="https://github.com/user-attachments/assets/cd9229f3-b85b-458f-84d3-26fa47655b71" />
+
+
+
+<img width="940" height="1326" alt="IMG_3322" src="https://github.com/user-attachments/assets/1272fc57-958f-44aa-ba9d-bd24c69c3bf0" />
+
+
 
 Part D-
 
