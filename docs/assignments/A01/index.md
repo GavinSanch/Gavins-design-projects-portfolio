@@ -28,13 +28,13 @@ Part D-Professional Tone:
 
 Task B: Product Analysis
 
-My Product is a 5/16 S*K Wrench that consists of one solid high carbon alloy steel that consists of three components
+My Product is a 5/16 in. S*K Wrench that consists of one solid high carbon alloy steel that consists of three components
 
 <img width="3070" height="1258" alt="IMG_3320" src="https://github.com/user-attachments/assets/59cd5292-9e01-4234-bf41-20561fd2c688" />
 
 Part A- My product has two sole purposes it must be able to tighten and loosen bolts when a force is applied to it, it must be able to perform this task without breaking/fracturing/bending in any sort of way and must be able to have a long-lasting life as a tool.
 
-Part B- The main governing equation that defines my product is torque which is known by many engineers as a force times a lever arm/distance, the reason this equation is valid for this product as it is its only purpose to apply a torque to bolts to either loosen or tighten them 
+Part B- The main governing equation that defines my product is torque which is known by many engineers as a force times a lever arm/distance, the reason this equation is valid for this product as it is its only purpose to apply a torque to bolts to either loosen or tighten them.
 
 Part C-
 
@@ -44,11 +44,11 @@ Part C-
 
 <img width="2530" height="993" alt="IMG_3323" src="https://github.com/user-attachments/assets/cd9229f3-b85b-458f-84d3-26fa47655b71" />
 
-
+The "neck" portion of the wrench acts as the gripping point to apply a force on the wrench, its long and a bit thin, but this makes it perfect to be grabbed using the hand.
 
 <img width="940" height="1326" alt="IMG_3322" src="https://github.com/user-attachments/assets/1272fc57-958f-44aa-ba9d-bd24c69c3bf0" />
 
-
+The "head" portion of the wrench acts as the torque applier allowing the force applied from the hand to be turned into a torque, the head shape for the wrench allows it to fit and grip perfectly only onto bolts with a 5/16 in. size.
 
 Part D-
 
