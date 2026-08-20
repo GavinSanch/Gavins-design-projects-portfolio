@@ -40,7 +40,7 @@ Part C-
 
 <img width="1107" height="1414" alt="IMG_3321" src="https://github.com/user-attachments/assets/80f9fc4b-f735-4cd9-803d-415b8f6dbd1b" />
 
-
+The "tail" of the wrench acts as a torque applier allowing the force applied from the hand to be turned into a torque, the "tail" has more contact points compared to the "head" allowing it to fit and grip perfectly onto any bolt that is only 5/16 in. as any bolt that is too big or too small will prevent the wrench from gripping adequately.
 
 <img width="2530" height="993" alt="IMG_3323" src="https://github.com/user-attachments/assets/cd9229f3-b85b-458f-84d3-26fa47655b71" />
 
@@ -48,7 +48,7 @@ The "neck" portion of the wrench acts as the gripping point to apply a force on 
 
 <img width="940" height="1326" alt="IMG_3322" src="https://github.com/user-attachments/assets/1272fc57-958f-44aa-ba9d-bd24c69c3bf0" />
 
-The "head" portion of the wrench acts as the torque applier allowing the force applied from the hand to be turned into a torque, the head shape for the wrench allows it to fit and grip perfectly only onto bolts with a 5/16 in. size.
+The "head" portion of the wrench also acts as the torque applier allowing the force applied from the hand to be turned into a torque, the head shape for the wrench allows it only two contact points to make onto bolts with a 5/16 in. size, if the bolt is too small or too large it will not grip properly.
 
 Part D-
 
