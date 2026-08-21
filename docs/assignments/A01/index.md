@@ -54,7 +54,7 @@ Part D-
 
 ## Decide
 
-Task 1-Homepage Identity:
+Task 1-Homepage Identity: I decided to add an extra image to the homepage that shows one of my own 3-D models I designed within solidowrks
 
 Task 2-One Intentional Customization:
 
