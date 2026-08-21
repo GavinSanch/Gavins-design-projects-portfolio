@@ -14,7 +14,7 @@ Part B-Reproductivity:
 
 Part C-Evidence of Reasoning: Hoerl really describes the design process on how he could improve upon the team's chassis as by first choosing a material to make the frame out of. He had decided on using 4130 steel with a mix of ER70S-2 filler rod as it required no preheat and made it easier to weld the frame of the chassis together. Once the material was decided upon, he had to run an analysis on the entire chassis as a whole using a very well-known software, ANSYS. Once the analysis was completed on the chassis it was onto actually getting it manufactured, him and his sub team used welding jigs to hold the hollow circular tubes in place during the welding process, then once that was complete, they had used standardized jigs to allow for the use of a CNC machine which helped bring down the manufacturing time. Hoerl doesn't cut straight to the chase on how he made the chassis but instead conveys not only through words but with images as well on how he could improve the chassis for the better through each of the processes.  
 
-Part D-Professional Tone: Overall Evan Hoerl meets the criteria of the professional tone as not only does he use the right words to show what he has made and helped in, but it also shows how he upholds his standards in a professional way.
+Part D-Professional Tone: Overall Evan Hoerl meets the criteria of the professional tone as not only does he use the right words to show what he has made and helped in, but it also shows how he upholds his standards in a professional way. He uses phrases that reflect his engineering prowess, and his tone is very formal and contains no slang words.
 
 Portfolio 2: https://bmorrell92.github.io/EngineeringPortfolio/
 
@@ -24,7 +24,7 @@ Part B-Reproductivity:
 
 Part C-Evidence of Reasoning:
 
-Part D-Professional Tone:
+Part D-Professional Tone: Morrell defiantly meets the professional tone section as he uses very fitting words to describe his works and does this well along with his mechanical, digital, and structural engineering vocabulary. Not only this but his tone through the whole page is very formal and objective thanks to his word choice and lack of slang words.
 
 Task B: Product Analysis
 
@@ -54,7 +54,7 @@ Part D-
 
 ## Decide
 
-Task 1-Homepage Identity: I decided to add an extra image to the homepage that shows one of my own 3-D models I designed within solidowrks
+Task 1-Homepage Identity: I decided to add an extra image to the homepage that shows one of my own 3-D models I designed within SolidWorks, I want it to project how much time and car I put into my work and my thinking process behind what I do. Not only this I added it here to show how important 3-D modeling is when it comes to engineering, as it is one of the backbones of engineering to begin designing your own parts and understanding how you can tweak them, so they are ready for the real world.
 
 Task 2-One Intentional Customization:
 
