@@ -11,10 +11,11 @@ This site is the working record of your engineering design decisions across MEGR
 Most assignment pages are organized around:
 
 - **Analyze** — the calculations, models, and data behind your design.
+- <img width="3840" height="1800" alt="R" src="https://github.com/user-attachments/assets/dc77af1d-4958-4f1a-b3f4-ca92ed297b77" />
 - **Decide** — the choice you made and, critically, the reasoning for it.
 - **Communicate** — the drawings, report, and presentation you'd hand to a client.
-
-Use the navigation on the left to move between assignments.
+<img width="768" height="593" alt="027229073_1-bf6f5f976a8e8f4f7d16b4fdf5d39a81-768x994" src="https://github.com/user-attachments/assets/9aace017-6da7-410f-b8b1-b351847780d8" />
+Use the navigation tool on the upper left to move between the different tabs.
 
 ## Semester arc
 
