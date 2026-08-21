@@ -2,7 +2,7 @@ Gavin Sanchez-MEGR 2157 – Design Portfolio
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
-- <img width="3840" height="1800" alt="R" src="https://github.com/user-attachments/assets/dc77af1d-4958-4f1a-b3f4-ca92ed297b77" />
+<img width="3840" height="1800" alt="R" src="https://github.com/user-attachments/assets/dc77af1d-4958-4f1a-b3f4-ca92ed297b77" />
 
 This site is the working record of your engineering design decisions across MEGR 2157. Every entry follows the Analyze, Decide, Communicate structure in accordance with standard engineering documentation practice, so a reader can see not just what you built, but how and why you built it that way. Engineering documentation is a skill developed through deliberate practice. Each assignment is an opportunity to improve the precision, clarity, and professional quality of how you record and defend your work. As you progress through the semester your engineering capability will grow alongside your documentation — this portfolio is the record of that journey.
 
