@@ -51,6 +51,7 @@ The "neck" portion of the wrench acts as the gripping point to apply a force on 
 The "head" portion of the wrench also acts as the torque applier allowing the force applied from the hand to be turned into a torque, the head shape for the wrench allows it only two contact points to make onto bolts with a 5/16 in. size, if the bolt is too small or too large it will not grip properly.
 
 Part D-
+Patent Number and Author(s):
 
 ## Decide
 
@@ -58,7 +59,7 @@ Task 1-Homepage Identity: I decided to add an extra image to the homepage that s
 
 Task 2-One Intentional Customization:
 
-Task 3-Your Documentation Standard:
+Task 3-Your Documentation Standard: My standard is to complete each assignment in an orderly and timely manner; I want to be able to show most of my work in a respectful tone that doesn't use any slang words. I want my works to be seen at a professional level, so I will complete them at the professional level like any engineer should. The standard that I want to set will be applied to all my assignments not just in my classes but in my 3-D modeling and any other works I do.
 
 ## Communicate
 
