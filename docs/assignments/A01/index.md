@@ -34,7 +34,7 @@ My Product is a 5/16 in. S*K Wrench that consists of one solid high carbon alloy
 
 Part A- My product has two sole purposes it must be able to tighten and loosen bolts when a force is applied to it, it must be able to perform this task without breaking/fracturing/bending in any sort of way and must be able to have a long-lasting life as a tool.
 
-Part B- The main governing equation that defines my product is torque which is known by many engineers as a force times a lever arm/distance, the reason this equation is valid for this product as it is its only purpose to apply a torque to bolts to either loosen or tighten them.
+Part B- The main governing equation that defines my product is torque which is known by many engineers as a force times a lever arm/distance, the reason this equation is valid for this product as it is its only purpose to apply a torque to bolts to either loosen or tighten them to their desired specifications.
 
 Part C-
 
