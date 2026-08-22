@@ -20,9 +20,9 @@ Portfolio 2: https://bmorrell92.github.io/EngineeringPortfolio/
 
 Part A-Navigability: Ben Morrell's website uses tabs to show stuff about himself his working experience and portfolio, it's not overly complex and is simplistic and easy to navigate through the use of the four tabs, I was able to find about all his working experience within a couple seconds allowing for anybody to find what they are looking for within a matter of seconds. His tabs are detailed very well and have a wonderful structure to them allowing one to not have to look too hard to find something out about Morrell. Ben also has a wide variety of skills as a Mechanical Design and Digital Engineer such as; additive manufacturing, data visualization, CAD/CAM, and etc.
 
-Part B-Reproductivity:
+Part B-Reproductivity: Ben provides the bare minimum when it comes to reproductivity as all he really shows is multiple images with brief descriptions about each, a good example of this is one of his images from within his mechanical design section on his portfolio contains an assembly with 25 parts, yet only 2 of those parts are shown. I would probably have to ask over 100 questions to even begin reproducing some of his works, at least on some his drawings dimensions are provided and as stated a second some contain bill of materials, other than that though he provides not a lot of great ways to replicate his projects.
 
-Part C-Evidence of Reasoning:
+Part C-Evidence of Reasoning: Ben provides, some evidence of reasoning on a couple of drawings mostly those that contain trusses as he labels out what type of couplers/nuts/connectors should be used on certain structural components. He provides some reasons for these choices in a few of the warning section areas in his drawings, but for his other drawings he does not label why he designed his parts the way he did, the cost to manufacture some of these parts, or the choice of materials for each part.
 
 Part D-Professional Tone: Morrell defiantly meets the professional tone section as he uses very fitting words to describe his works and does this well along with his mechanical, digital, and structural engineering vocabulary. Not only this but his tone through the whole page is very formal and objective thanks to his word choice and lack of slang words.
 
