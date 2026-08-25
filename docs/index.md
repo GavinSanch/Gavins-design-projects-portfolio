@@ -12,9 +12,9 @@ This site is the working record of your engineering design decisions across MEGR
 
 Most assignment pages are organized around:
 
-- **Analyze** — the calculations, models, and data behind your design.
-- **Decide** — the choice you made and, critically, the reasoning for it.
-- **Communicate** — the drawings, report, and presentation you'd hand to a client.
+- **Analyzing** — the calculations, models, and data behind your design.
+- **Deciding** — the choice you made and, critically, the reasoning for it.
+- **Communicating** — the drawings, report, and presentation you'd hand to a client.
 
 Use the navigation tool on the upper left to move between the different tabs.
 
