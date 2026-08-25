@@ -69,3 +69,5 @@ Task 3-Your Documentation Standard: My standard is to complete each assignment i
 ## Communicating
 
 Found in the About Me Section
+
+I believe the maximum amount of time I spent on this assignment was around 9-10 hours, whether it was searching for a portfolio, patent number, or figuring out what I wanted people to see when they first open my site.
