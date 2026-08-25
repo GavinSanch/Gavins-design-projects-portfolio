@@ -40,18 +40,23 @@ Part C-
 
 <img width="1107" height="1414" alt="IMG_3321" src="https://github.com/user-attachments/assets/80f9fc4b-f735-4cd9-803d-415b8f6dbd1b" />
 
-The "tail" of the wrench acts as a torque applier allowing the force applied from the hand to be turned into a torque, the "tail" has more contact points compared to the "head" allowing it to fit and grip perfectly onto any bolt that is only 5/16 in. as any bolt that is too big or too small will prevent the wrench from gripping adequately.
+The tail of the wrench acts as a torque applier allowing the force applied from the hand to be turned into a torque, the tail has more contact points compared to the head allowing it to fit and grip perfectly onto any bolt that is only 5/16 in. as any bolt that is too big or too small will prevent the wrench from gripping adequately.
 
 <img width="2530" height="993" alt="IMG_3323" src="https://github.com/user-attachments/assets/cd9229f3-b85b-458f-84d3-26fa47655b71" />
 
-The "neck" portion of the wrench acts as the gripping point to apply a force on the wrench, its long and a bit thin, but this makes it perfect to be grabbed using the hand.
+The neck portion of the wrench acts as the gripping point to apply a force on the wrench, its long and a bit thin, but this makes it perfect to be grabbed using the hand.
 
 <img width="940" height="1326" alt="IMG_3322" src="https://github.com/user-attachments/assets/1272fc57-958f-44aa-ba9d-bd24c69c3bf0" />
 
-The "head" portion of the wrench also acts as the torque applier allowing the force applied from the hand to be turned into a torque, the head shape for the wrench allows it only two contact points to make onto bolts with a 5/16 in. size, if the bolt is too small or too large it will not grip properly.
+The head portion of the wrench also acts as the torque applier allowing the force applied from the hand to be turned into a torque, the head shape for the wrench allows it only two contact points to make onto bolts with a 5/16 in. size, if the bolt is too small or too large it will not grip properly.
 
 Part D-
-Patent Number and Author(s):
+Patent Number: US6305252B1-_Torque enhancing wrench_
+Author/Inventor: Shin Jong Hsu
+
+One alternative solution would be to use the normal flat-walled open end and the 12-point closed end. Shin's design in practice looks very thought out but with all those extra teeth on the open end and the lack of teeth on the closed end could cause the wrench to slip when trying to tighten or loosen a bolt. Another alternative would be to use an interchangeable 6-point socket attached to a ratchet handle; this helps cover the whole nut/bolt which in turn can help prevent the slipping and rounding out issue of Shin's wrench.
+
+One design decision that I saw Shin use was using a multitude of machined contact areas/teeth along the open end and partially around the closed end of the wrench, the other half of the closed end wrench has no contact areas instead it is a cut off elliptical circle that gets cutoff by said contact areas/teeth that are also located on the closed end of the wrench. I believe the reason Shin went with this design is to help improve the contact area which would overall improve torque, this explains the reason why the closed end and open end of the wrench do not have the normal setup of the opening end being three area of contact and the closed end being a socket with 12 contact areas. He did this as a way to improve the torque that could be applied onto a nut by creating specific geometry that would improve torque when it is applied via the hand.
 
 ## Decide
 
