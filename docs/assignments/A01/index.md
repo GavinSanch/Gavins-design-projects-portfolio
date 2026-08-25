@@ -3,7 +3,7 @@
 ## Objective
 Build Your Professional Portfolio
 
-## Analyze
+## Analyzing
 Task A: Portfolio Analysis
 
 Portfolio 1: https://ejhoerl.github.io/
@@ -58,14 +58,14 @@ One alternative solution would be to use the normal flat-walled open end and the
 
 One design decision that I saw Shin use was using a multitude of machined contact areas/teeth along the open end and partially around the closed end of the wrench, the other half of the closed end wrench has no contact areas instead it is a cut off elliptical circle that gets cutoff by said contact areas/teeth that are also located on the closed end of the wrench. I believe the reason Shin went with this design is to help improve the contact area which would overall improve torque, this explains the reason why the closed end and open end of the wrench do not have the normal setup of the opening end being three area of contact and the closed end being a socket with 12 contact areas. He did this as a way to improve the torque that could be applied onto a nut by creating specific geometry that would improve torque when it is applied via the hand.
 
-## Decide
+## Deciding
 
 Task 1-Homepage Identity: I decided to add an extra image to the homepage that shows one of my own 3-D models I designed within SolidWorks, I want it to project how much time and car I put into my work and my thinking process behind what I do. Not only this I added it here to show how important 3-D modeling is when it comes to engineering, as it is one of the backbones of engineering to begin designing your own parts and understanding how you can tweak them, so they are ready for the real world.
 
-Task 2-One Intentional Customization:
+Task 2-One Intentional Customization: I decided to change the assignment name from A1 to Assignment One as I wanted the tone of my future assignments to sound professional to anyone who decides to read about them. I also decided to change the Analyze/Decide/Communicate to Analyzing/Deciding/Communicating as on not just the homepage but for every assignment going forward, I wanted to do this for the same reasons I want to change the assignment names to have my tone be more professional.
 
 Task 3-Your Documentation Standard: My standard is to complete each assignment in an orderly and timely manner; I want to be able to show most of my work in a respectful tone that doesn't use any slang words. I want my works to be seen at a professional level, so I will complete them at the professional level like any engineer should. The standard that I want to set will be applied to all my assignments not just in my classes but in my 3-D modeling and any other works I do.
 
-## Communicate
+## Communicating
 
 Found in the About Me Section
