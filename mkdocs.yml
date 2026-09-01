@@ -15,7 +15,7 @@ nav:
   - Portfolio Overview: portfolio-overview.md
   - Assignments:
       - A1: assignments/Portfolio Creation/index.md
-      - A2: assignments/DEsigning with Basic Stresses/index.md
+      - A2: assignments/Designing with Basic Stresses/index.md
       - A3: assignments/Parametics and FEA's/index.md
       - A4: assignments/Motor Mount/index.md
       - A5: assignments/Braket Design/index.md
