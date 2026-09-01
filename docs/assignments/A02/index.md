@@ -37,6 +37,6 @@ First off in the calculations I had to determine the angle that my triangles had
 
 To begin calculating my internal loads I had to choose a spot that would statically determinate, so I choose joint B as it had one known and two unknowns which makes it possible to solve for the internal loads as it is statically determinate there. I took a sum of all the forces in the y-direction to start; Fy=0=-By-BC sin(36.86), which rearranged to solve for joint BC becomes; BC=-BY/sin(36.86), I plugged in my numbers and got BC=11.12 kN in compression. So now that joint BC was solved, I could find joint BE by taking a sum of all forces in the x-direction; Fx=0=BE+BC cos(36.86), which rearranged to solve for BE becomes; BE=-BC cos(36.86), putting the numbers in gave BE=8.897 kN in tension.
 
-<img width="3024" height="4032" alt="IMG_3345" src="https://github.com/user-attachments/assets/20cec03d-05eb-4787-9b8d-242145100df7" />
+<img width="2795" height="2836" alt="IMG_3345" src="https://github.com/user-attachments/assets/9bd314e8-0905-4d83-a2ab-75011e937f6b" />
 
 Now that I solved joint B I could move onto joint C to find the final internal loads of the truss due to it being symmetric. So, to start things off I took a sum of all forces in the y-direction again; Fy=0=CE sin(56.31)-BC sin(36.86)+P, when I rearranged this one to solve for CE it came out like this; CE=-(P+BC sin(36.86)/sin(56.31), and after I put the numbers in it gave me CE=16.02 kN in compression. Now that I have joint CE solved, I could now take a sum of the forces in the x-direction to find CD;
