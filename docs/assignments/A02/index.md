@@ -34,3 +34,5 @@ First off in the calculations I had to determine the angle that my triangles had
    -_Internal Loads_
 
 <img width="3024" height="3203" alt="IMG_3346" src="https://github.com/user-attachments/assets/495bf4e0-7ddb-47cf-a8e2-01730ec9cdaa" />
+
+To begin calculating my internal loads I had to choose a spot that would statically determinate, so I choose joint B as it had one known and two unknowns which makes it possible to solve for the internal loads as it is statically determinate there. I took a sum of all the forces in the y-direction to start; Fy=0=-By-BC sin(36.86), which rearranged to solve for joint BC becomes; BC=-BY/sin(36.86), I plugged in my numbers and got BC=11.12 kN in compression. So now that joint BC was solved, I could find joint BE by taking a sum of all forces in the x-direction
