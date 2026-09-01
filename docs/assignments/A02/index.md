@@ -53,4 +53,12 @@ Now that I had figured out all the internal loads on my truss, I could calculate
 
  -_Area and Weight of Pins_
 
-<img width="2973" height="2322" alt="IMG_3349" src="https://github.com/user-attachments/assets/6d938e4b-82e0-4412-9edf-9bcf13465ca3" />
+<img width="2568" height="3405" alt="IMG_3350" src="https://github.com/user-attachments/assets/6a7d87f5-6645-4acc-aa2d-39a9d8abdfb0" />
+
+Now that I have obtained everything else the last thing to do is to calculate the area and weight of the pins for my truss. The material properties and density were already provided, and I already knew the largest internal load of 16.02 kN to determine the area and that we should assume single shear. To actually obtain the area of the pins it's the same for the bars of the truss get actual shear stress through FOS formula then use shear formula to obtain area of the pins. So, by using a yield shear stress of 170 ksi which converted to SI equals 1172.11 MPa and with a FOS of 4 we can rearrange the equation of FOS to look like this; actual=yield/FOS, and by plugging in the numbers I obtained an actual shear stress of 293.0275 MPa. Now I can use that to get area and diameter of the pins in the same way I did for the bars by rearranging the shear equation and then rearranging the area equation; A=V/actual, when putting the numbers in I got 54.67 mm^2 for area and then for the radius; r=sqrt(A/pi), I got 4.17 mm. Then taking the radius and multiplying it by two I got an 8.34 mm diameter to make all five pins.
+
+<img width="2517" height="2205" alt="IMG_3351" src="https://github.com/user-attachments/assets/40695cf2-f69b-47fc-aaa5-87d1f605406e" />
+
+Now that I have the area of the pins it was time to find the total weight of the pins, however I realized I still needed a length of the pins to actually obtain the weight. So, I took the diameter of the bars multiplied it by two and got 33.8 mm, this is what determined how long my pins should be. Now with the density, which converted to SI would be 7695.01 kg/m^3, length, area, and acceleration due to gravity I could obtain the total weight of the pins; w=7695.01 kg/m^3 * 9.8 m/s^2 * 0.00005467 m^2=4.12 N/m. I can take that 4.12 N/m and multiply it by the length of the pins in meters; 4.12 N/m * 33.8 mm * 10^-3=0.1393 N, this is the weight of one pin if I multiply it by five this will give me the total weight of the pin; 0.1393 N * 5=0.6965 N, this is the total weight of all five pins combined. Now that I have obtained everything necessary I can now model the truss in CAD.
+
+## **Modeling**
