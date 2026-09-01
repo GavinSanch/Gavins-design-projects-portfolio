@@ -59,6 +59,26 @@ Now that I have obtained everything else the last thing to do is to calculate th
 
 <img width="2517" height="2205" alt="IMG_3351" src="https://github.com/user-attachments/assets/40695cf2-f69b-47fc-aaa5-87d1f605406e" />
 
-Now that I have the area of the pins it was time to find the total weight of the pins, however I realized I still needed a length of the pins to actually obtain the weight. So, I took the diameter of the bars multiplied it by two and got 33.8 mm, this is what determined how long my pins should be. Now with the density, which converted to SI would be 7695.01 kg/m^3, length, area, and acceleration due to gravity I could obtain the total weight of the pins; w=7695.01 kg/m^3 * 9.8 m/s^2 * 0.00005467 m^2=4.12 N/m. I can take that 4.12 N/m and multiply it by the length of the pins in meters; 4.12 N/m * 33.8 mm * 10^-3=0.1393 N, this is the weight of one pin if I multiply it by five this will give me the total weight of the pin; 0.1393 N * 5=0.6965 N, this is the total weight of all five pins combined. Now that I have obtained everything necessary I can now model the truss in CAD.
+Now that I have the area of the pins it was time to find the total weight of the pins, however I realized I still needed a length of the pins to actually obtain the weight. So, I took the diameter of the bars multiplied it by two and got 33.8 mm, this is what determined how long my pins should be. Now with the density, which converted to SI would be 7695.01 kg/m^3, length, area, and acceleration due to gravity I could obtain the total weight of the pins; w=7695.01 kg/m^3 * 9.8 m/s^2 * 0.00005467 m^2=4.12 N/m. I can take that 4.12 N/m and multiply it by the length of the pins in meters; 4.12 N/m * 33.8 mm * 10^-3=0.1393 N, this is the weight of one pin if I multiply it by five this will give me the total weight of the pin; 0.1393 N * 5=0.6965 N, this is the total weight of all five pins combined. Now that I have obtained everything necessary, I can now model the truss in CAD.
 
 ## **Modeling**
+
+-_Truss without the pins_
+
+<img width="1368" height="424" alt="image" src="https://github.com/user-attachments/assets/c7acf262-0ebb-4504-abb7-b0d1051404ba" />
+
+This is what I was able to design based on my previous calculations from earlier a pseudo 2-D truss that has the correct cross-sectional area, base/height, and applied material properties. The only thing that was off was just the weight; it appears the weight of the truss in SolidWorks was 56.49 N, approximately 0.8145 N off from my calculated weight of my truss.
+
+-_Truss with pins_
+
+<img width="959" height="674" alt="image" src="https://github.com/user-attachments/assets/e72459ed-3a04-434f-94d3-e8090baf4a6f" />
+
+Here is what the truss looks like with five pins at their correct cross-sectional area, length, and diameter. The pins fit perfectly center within each part of truss where there was more than one bar joined together. This in turn allowed me to run a proper Finite Element Analysis upon the truss to see if it would hold up with its applied fixtures and loads.
+
+-_FEA on Truss_
+
+<img width="1060" height="553" alt="image" src="https://github.com/user-attachments/assets/10d3af40-3ac7-49ad-b00c-130c0170f2f3" />
+
+The last thing I wanted to do was to see if my truss could withstand the 20 kN loads that were applied to it so I completely fixed pin A, and had to do some extra work to simulate the roller at B, then I applied the upwards P at C and the downwards P at D. This in turn allowed me to see how well the truss would hold up under these real-world conditions, and it held up pretty well as most of the truss sits well in the blue area meaning that the maximum Von Mises stress across the whole truss sits well below the A36's 250 MPa yield strength.
+
+## **Engineering Lesson Learned**
