@@ -82,3 +82,9 @@ Here is what the truss looks like with five pins at their correct cross-sectiona
 The last thing I wanted to do was to see if my truss could withstand the 20 kN loads that were applied to it so I completely fixed pin A, and had to do some extra work to simulate the roller at B, then I applied the upwards P at C and the downwards P at D. This in turn allowed me to see how well the truss would hold up under these real-world conditions, and it held up pretty well as most of the truss sits well in the blue area meaning that the maximum Von Mises stress across the whole truss sits well below the A36's 250 MPa yield strength.
 
 ## **Engineering Lesson Learned**
+
+I feel like the greatest engineering lesson I learned is to make sure that when you are designing something that you double check your design to make sure that it is structurally sound and that everything fits together perfectly and properly. I say this as the first time I designed the truss my inverted triangles had 45 degrees angles on them so when I went to go model them in SolidWorks the truss wasn't fitting together properly all because I made a tiny mistake in the design process of my truss.
+
+## **Total Time**
+
+The total amount of time that I spent designing and modeling my truss took me roughly 5 to 6 hours to complete.
