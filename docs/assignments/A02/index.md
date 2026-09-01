@@ -49,4 +49,6 @@ Now that I had figured out all the internal loads on my truss, I could calculate
 
 <img width="2973" height="2322" alt="IMG_3349" src="https://github.com/user-attachments/assets/a0aaebbf-f210-422f-a2d9-40040e58ac0a" />
 
- The next thing to do was to find the weight of the entire truss without the pins in them
+ The next thing to do was to find the weight of the entire truss without the pins in them and thankfully I almost had everything I needed; the density of the material, acceleration due to gravity, and the area of the bars. However, I was still missing one thing the total length of each bar combined, I knew the length of the horizontal bars but for the diagonals ones I had to use Pythagoreans Theorem. So, for the inverted triangles I had 0.4 m by 0.3 m which using the theorem gave me a length of 0.5 m, and for my center triangle which was 0.2 m by 0.3 m I obtained 0.361 m on its diagonals. Now that I had the length I could obtain the weight of the truss; w=7850 kg/m^3 * 9.8 m/s^2 * 0.00022428 m^2 =17.25 N/m, then by multiplying that number by the total length would give me the entire weight of the truss; W=17.25 N/m *(1.2 m+0.4 m+(0.5 m)(2)+(0.361 m)(2)=57.3045 N. So, the entire weight of my truss came out to just 57.3045 N without the pins.
+
+ -_Area and Weight of Pins_
