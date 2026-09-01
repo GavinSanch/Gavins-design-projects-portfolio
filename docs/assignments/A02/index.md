@@ -27,3 +27,5 @@ I decided to go with the most basic geometric design for my truss as I wanted to
 
 ## **Calculations**
     -Angles and Reactions
+        <img width="3401" height="2279" alt="IMG_3342" src="https://github.com/user-attachments/assets/63b1994d-7d33-42c6-bab6-a92b63f24556" />
+
