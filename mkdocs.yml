@@ -14,14 +14,14 @@ nav:
   - About Me: aboutme/index.md
   - Portfolio Overview: portfolio-overview.md
   - Assignments:
-      - A1: assignments/A01/index.md
-      - A2: assignments/A02/index.md
-      - A3: assignments/A03/index.md
-      - A4: assignments/A04/index.md
-      - A5: assignments/A05/index.md
-      - A6: assignments/A06/index.md
-      - A7: assignments/A07/index.md
-      - A8: assignments/A08/index.md
-      - A9: assignments/A09/index.md
-      - A10: assignments/A10/index.md
-      - A11: assignments/A11/index.md
+      - A1: assignments/Portfolio Creation/index.md
+      - A2: assignments/DEsigning with Basic Stresses/index.md
+      - A3: assignments/Parametics and FEA's/index.md
+      - A4: assignments/Motor Mount/index.md
+      - A5: assignments/Braket Design/index.md
+      - A6: assignments/Bracket Drawing/index.md
+      - A7: assignments/FEA on the Bracket/index.md
+      - A8: assignments/Gear Box Design/index.md
+      - A9: assignments/Pulley System Design/index.md
+      - A10: assignments/Lead Screw Design/index.md
+      - A11: assignments/Motor Selection Design/index.md
