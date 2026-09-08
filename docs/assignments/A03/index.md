@@ -22,6 +22,8 @@ So, for my beam I decided to go with a square cross-sectional area of 36mm^2, (6
 
 _Stress on the Beam_
 
+<img width="3024" height="1173" alt="IMG_3404 (1)" src="https://github.com/user-attachments/assets/5a1ed0df-1bc5-4c5c-98c4-9ddcea454e0a" />
+
 ## **Engineering Lesson Learned**
 
 ## **Time Spent on A3**
