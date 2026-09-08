@@ -62,7 +62,7 @@ _Factor of Safety Map of Beam_
 
 <img width="1913" height="1033" alt="Screenshot 2026-09-08 051619" src="https://github.com/user-attachments/assets/32f5ce53-c2bf-44c5-80c6-f9d6350a909d" />
 
-This is the Factor of Safety map on my beam; I decided to set the FOS higher than its standard to show how my calculated FOS was calculated correctly proving the part had an FOS of 4.45.
+This is the Factor of Safety map on my beam; I decided to set the FOS higher than its standard of 1 to show how my beam's calculated FOS was up to at least 4 since I calculated it had an FOS of 4.45.
 
 ## **Design Reflection**
 a.)
@@ -71,9 +71,12 @@ So the axial deflection from my calculations was 0.2286mm while the one in the F
 <img width="2792" height="1393" alt="IMG_3408" src="https://github.com/user-attachments/assets/59a37d17-ef42-4a24-b9c5-68142c8b8236" />
 
 b.)
-If there were a substantial pin hole placed on my bar the stress concentration factor (Kt) would be 2.5.
+If there were a substantial pin hole placed on my bar the stress concentration factor (Kt) would be 2.5 based on the charts in the Machineries Handbook. The equation for max stress goes as follows, max stress=Kt X nominal stress, so putting the numbers in gave me a max stress 154.4525 MPa directly at the pin hole. This would for sure pass my safety factor as this peak stress still sits about halfway under my materials yield strength, as the new FOS would be 1.78 which sits a bit lower than my originally calculated FOS of 4.45, however it still sits above one which is a design standard for all parts.
 
 ## **Engineering Lesson Learned**
 
+I feel like an engineering lesson I learned was how to parametrize a part based on an equation, as parametrization allows us engineers to change the length, area, diameter, radius, etc. through just a couple of numbers instead of having to always edit a sketch or feature on the part. Using an equation allows one to easily change the numbers in it to change how the part will look and it takes no time what so ever, which helps the design process smooth and streamlined.
+
 ## **Time Spent on A3**
 
+I believe the total time that I spent working on A3 was about 4 to 5 hours total.
