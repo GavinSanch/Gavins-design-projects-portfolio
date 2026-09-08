@@ -56,6 +56,20 @@ _Von Mises Stress Map of Beam_
 
 <img width="1919" height="1031" alt="Screenshot 2026-09-04 144020" src="https://github.com/user-attachments/assets/831b210c-c54e-47de-b8cb-ce6603e458ad" />
 
+This is the Von Mises map on my beam, and as you can see from the image the entirety of the beam sits in the green region between 56.66 MPa and 62.60 MPa which is pretty accurate for my calculated stress of 61.781 MPa. Sadly, I cannot determine the actual stress in the simulation as SolidWorks lacks any sort of "probe" feature to allow me to see the stress acting at any point along the bar. The best part is that my square bar sits well below the yield strength of the material further proving my calculation was correct.
+
+_Factor of Safety Map of Beam_
+
+<img width="1913" height="1033" alt="Screenshot 2026-09-08 051619" src="https://github.com/user-attachments/assets/32f5ce53-c2bf-44c5-80c6-f9d6350a909d" />
+
+This is the Factor of Safety map on my beam; I decided to set the FOS higher than its standard to show how my calculated FOS was calculated correctly proving the part had an FOS of 4.45.
+
+## **Design Reflection**
+a.)
+So the axial deflection from my calculations was 0.2286mm while the one in the FEA was 0.2284mm, these two values are practically similar, and it comes down to the parametric length equation I used to determine the correct length of my square bar, the chosen cross-sectional area, and the applied force of 2224.11 N. These three things allowed for my deflection in both calculation and in the FEA to be almost identical to each other due to these determined and predetermined factors. Now as for the percent difference between the two, |calculated-FEA/calculated| X 100%, and after plugging in the numbers I ended up with a 0.0874% difference.
+
+b.)
+
 ## **Engineering Lesson Learned**
 
 ## **Time Spent on A3**
