@@ -68,7 +68,10 @@ This is the Factor of Safety map on my beam; I decided to set the FOS higher tha
 a.)
 So the axial deflection from my calculations was 0.2286mm while the one in the FEA was 0.2284mm, these two values are practically similar, and it comes down to the parametric length equation I used to determine the correct length of my square bar, the chosen cross-sectional area, and the applied force of 2224.11 N. These three things allowed for my deflection in both calculation and in the FEA to be almost identical to each other due to these determined and predetermined factors. Now as for the percent difference between the two, |calculated-FEA/calculated| X 100%, and after plugging in the numbers I ended up with a 0.0874% difference.
 
+<img width="2792" height="1393" alt="IMG_3408" src="https://github.com/user-attachments/assets/59a37d17-ef42-4a24-b9c5-68142c8b8236" />
+
 b.)
+If there were a substantial pin hole placed on my bar the stress concentration factor (Kt) would be 2.5.
 
 ## **Engineering Lesson Learned**
 
