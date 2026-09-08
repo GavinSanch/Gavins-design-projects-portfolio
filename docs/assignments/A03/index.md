@@ -24,6 +24,26 @@ _Stress on the Beam_
 
 <img width="3024" height="1173" alt="IMG_3404 (1)" src="https://github.com/user-attachments/assets/5a1ed0df-1bc5-4c5c-98c4-9ddcea454e0a" />
 
+I used the stress formula to get a calculation of how much stress that would be affecting my square beam, stress=F/A, and after plugging in the numbers I obtained 61.781 MPa of stress acting upon my square beam with my chosen force and area. I will use this calculated stress and compare to the FEA that I will run later in SolidWorks.
+
+_FOS of the Beam_
+
+<img width="2766" height="827" alt="IMG_3408" src="https://github.com/user-attachments/assets/660dc78a-8e6c-4c78-9380-ed3f500a156f" />
+
+After obtaining the stress acting upon my beam, I could calculate the Factor of Safety on my beam by using, FOS=yield stress/actual stress, then I put in the numbers and got a FOS of 4.45 which is pretty good and means that my beam could withstand a lot more force before yielding and then fracturing.
+
+_Parametric Equation for the length of the Beam_
+
+<img width="2666" height="1475" alt="IMG_3407 (1)" src="https://github.com/user-attachments/assets/95c43a12-8f3e-46b6-b0c6-1c0625a2cf6f" />
+
+By using the deflection equation, I could determine the length of the bar then use that same equation as a parametric equation to put into SolidWorks to tell it how long to extrude the beam. The formula, deflection=FL/EA, and after plugging my numbers in I obtained a length of 255.31 mm.
+
+## **CAD**
+
+<img width="1919" height="1031" alt="Screenshot 2026-09-04 143925" src="https://github.com/user-attachments/assets/ee9643ca-00e0-4383-8a3d-c1f8201687c6" />
+
+
+
 ## **Engineering Lesson Learned**
 
 ## **Time Spent on A3**
