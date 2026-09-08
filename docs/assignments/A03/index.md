@@ -40,9 +40,21 @@ By using the deflection equation, I could determine the length of the bar then u
 
 ## **CAD**
 
+_Model of Beam_
+
 <img width="1919" height="1031" alt="Screenshot 2026-09-04 143925" src="https://github.com/user-attachments/assets/ee9643ca-00e0-4383-8a3d-c1f8201687c6" />
 
+This is the CAD model of the square beam I created from the cross-sectional area of 36mm^2 and with the parametrized equation that I made from the deflection equation.
 
+_Deflection Map of Beam_
+
+<img width="1919" height="1032" alt="Screenshot 2026-09-04 144104" src="https://github.com/user-attachments/assets/f1e392aa-2dab-4a4e-87f1-b7cc66f9be87" />
+
+This is the deflection map of my square beam, as you can see from the image red is the place where there is the most deflection on my beam and blue is where there is the least amount of deflection on my beam. The way I set this up was applying a fixture at one end of the beam, placing in the 2224.11 N force at the other end of the beam, applying the 6061-T6 material properties to the beam, then running the simulation to obtain the results. Now something I did notice was that the max was off by 0.0002 mm which is a pretty small difference between what the simulation calculated and what I calculated. 
+
+_Von Mises Stress Map of Beam_
+
+<img width="1919" height="1031" alt="Screenshot 2026-09-04 144020" src="https://github.com/user-attachments/assets/831b210c-c54e-47de-b8cb-ce6603e458ad" />
 
 ## **Engineering Lesson Learned**
 
