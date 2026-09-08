@@ -1,6 +1,6 @@
 # A3 – [Topic]
 
-## Objective
+## **Objective**
 
 -Use axial deflection modeling to design its dimensions
 
@@ -12,10 +12,7 @@
 
 -Compare and contrast the different analysis
 
-## Analyze
-
-
-## Decide
+## **Deciding**
 
 
 ## Communicate
