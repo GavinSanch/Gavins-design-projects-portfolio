@@ -14,6 +14,8 @@
 
 ## **Deciding**
 
+<img width="2731" height="2091" alt="IMG_3404" src="https://github.com/user-attachments/assets/1e573cf7-6be8-4cee-926e-a843faee636d" />
+
 
 ## Communicate
 
