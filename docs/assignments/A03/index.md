@@ -71,7 +71,7 @@ So the axial deflection from my calculations was 0.2286mm while the one in the F
 <img width="2055" height="2287" alt="IMG_3413" src="https://github.com/user-attachments/assets/f77833e8-30f4-4b67-9a7c-eb418257be6e" />
 
 b.)
-If there were a substantial pin hole placed on my bar the stress concentration factor (Kt) would be 2.5 based on the charts in the Machineries Handbook. The equation for max stress goes as follows, max stress=Kt X nominal stress, so putting the numbers in gave me a max stress 154.4525 MPa directly at the pin hole. This would for sure pass my safety factor as this peak stress still sits about halfway under my materials yield strength, as the new FOS would be 1.78 which sits a bit lower than my originally calculated FOS of 4.45, however it still sits above one which is a design standard for all parts.
+If there were a substantial pin hole placed on my bar the stress concentration factor (Kt) would be 2.51 based on the charts in the Machineries Handbook and on the assumed diameter of the pin (1.20mm). The equation for max stress goes as follows, max stress=Kt X nominal stress, so putting the numbers in gave me a max stress 200.2 MPa directly at the pin hole. This would for sure pass my safety factor as this peak stress still sits about halfway under my materials yield strength, as the new FOS would be 1.37 which sits a bit lower than my originally calculated FOS of 4.45, however it still sits above one which is a design standard for all parts.
 
 ## **Engineering Lesson Learned**
 
