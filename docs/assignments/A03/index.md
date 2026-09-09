@@ -68,7 +68,7 @@ This is the Factor of Safety map on my beam; I decided to set the FOS higher tha
 a.)
 So the axial deflection from my calculations was 0.2286mm while the one in the FEA was 0.2284mm, these two values are practically similar, and it comes down to the parametric length equation I used to determine the correct length of my circular bar, the chosen cross-sectional area, and the applied force of 2224.11 N. These three things allowed for my deflection in both calculation and in the FEA to be almost identical to each other due to these determined and predetermined factors. Now as for the percent difference between the two, |calculated-FEA/calculated| X 100%, and after plugging in the numbers I ended up with a 0.0874% difference.
 
-<img width="2792" height="1393" alt="IMG_3408" src="https://github.com/user-attachments/assets/59a37d17-ef42-4a24-b9c5-68142c8b8236" />
+<img width="2055" height="2287" alt="IMG_3413" src="https://github.com/user-attachments/assets/f77833e8-30f4-4b67-9a7c-eb418257be6e" />
 
 b.)
 If there were a substantial pin hole placed on my bar the stress concentration factor (Kt) would be 2.5 based on the charts in the Machineries Handbook. The equation for max stress goes as follows, max stress=Kt X nominal stress, so putting the numbers in gave me a max stress 154.4525 MPa directly at the pin hole. This would for sure pass my safety factor as this peak stress still sits about halfway under my materials yield strength, as the new FOS would be 1.78 which sits a bit lower than my originally calculated FOS of 4.45, however it still sits above one which is a design standard for all parts.
