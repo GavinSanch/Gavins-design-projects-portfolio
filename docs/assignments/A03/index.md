@@ -56,7 +56,7 @@ _Von Mises Stress Map of Beam_
 
 <img width="1919" height="1032" alt="Screenshot 2026-09-08 214029" src="https://github.com/user-attachments/assets/03793bf8-fb9c-4f83-8944-46392ad4f7aa" />
 
-This is the Von Mises map on my beam, and as you can see from the image the entirety of the beam sits in the yellow region between 56.66 MPa and 62.60 MPa which is pretty accurate for my calculated stress of 61.781 MPa. Sadly, I cannot determine the actual stress in the simulation as SolidWorks lacks any sort of "probe" feature to allow me to see the stress acting at any point along the bar. The best part is that my circular bar sits well below the yield strength of the material further proving my calculation was correct.
+This is the Von Mises map on my beam, and as you can see from the image the entirety of the beam sits in the yellow region between 58.08 MPa and 62.51 MPa which is pretty accurate for my calculated stress of 61.781 MPa. Sadly, I cannot determine the actual stress in the simulation as SolidWorks lacks any sort of "probe" feature to allow me to see the stress acting at any point along the bar. The best part is that my circular bar sits well below the yield strength of the material further proving my calculation was correct.
 
 _Factor of Safety Map of Beam_
 
