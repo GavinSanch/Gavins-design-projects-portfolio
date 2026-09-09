@@ -24,7 +24,7 @@ _Stress on the Beam_
 
 <img width="3024" height="1173" alt="IMG_3404 (1)" src="https://github.com/user-attachments/assets/5a1ed0df-1bc5-4c5c-98c4-9ddcea454e0a" />
 
-I used the stress formula to get a calculation of how much stress that would be affecting my circular beam, stress=F/A, and after plugging in the numbers I obtained 61.781 MPa of stress acting upon my square beam with my chosen force and area. I will use this calculated stress and compare to the FEA that I will run later in SolidWorks.
+I used the stress formula to get a calculation of how much stress that would be affecting my circular beam, stress=F/A, and after plugging in the numbers I obtained 61.781 MPa of stress acting upon my circular beam with my chosen force and area. I will use this calculated stress and compare to the FEA that I will run later in SolidWorks.
 
 _FOS of the Beam_
 
@@ -42,31 +42,31 @@ By using the deflection equation, I could determine the length of the bar then u
 
 _Model of Beam_
 
-<img width="1919" height="1031" alt="Screenshot 2026-09-04 143925" src="https://github.com/user-attachments/assets/ee9643ca-00e0-4383-8a3d-c1f8201687c6" />
+<img width="1919" height="1031" alt="Screenshot 2026-09-08 213919" src="https://github.com/user-attachments/assets/be40aa31-f6bc-4463-9e0c-5ff3a53d0f89" />
 
-This is the CAD model of the square beam I created from the cross-sectional area of 36mm^2 and with the parametrized equation that I made from the deflection equation.
+This is the CAD model of the circular beam I created from the cross-sectional area of 36mm^2 and with the parametrized equation that I made from the deflection equation.
 
 _Deflection Map of Beam_
 
-<img width="1919" height="1032" alt="Screenshot 2026-09-04 144104" src="https://github.com/user-attachments/assets/f1e392aa-2dab-4a4e-87f1-b7cc66f9be87" />
+<img width="1919" height="1031" alt="Screenshot 2026-09-08 214021" src="https://github.com/user-attachments/assets/cf15b218-6e0a-40c8-8327-c26186bde337" />
 
-This is the deflection map of my square beam, as you can see from the image red is the place where there is the most deflection on my beam and blue is where there is the least amount of deflection on my beam. The way I set this up was applying a fixture at one end of the beam, placing in the 2224.11 N force at the other end of the beam, applying the 6061-T6 material properties to the beam, then running the simulation to obtain the results. Now something I did notice was that the max was off by 0.0002 mm which is a pretty small difference between what the simulation calculated and what I calculated. 
+This is the deflection map of my circular beam, as you can see from the image red is the place where there is the most deflection on my beam and blue is where there is the least amount of deflection on my beam. The way I set this up was applying a fixture at one end of the beam, placing in the 2224.11 N force at the other end of the beam, applying the 6061-T6 material properties to the beam, then running the simulation to obtain the results. Now something I did notice was that the max was off by 0.0002 mm which is a pretty small difference between what the simulation calculated and what I calculated. 
 
 _Von Mises Stress Map of Beam_
 
-<img width="1919" height="1031" alt="Screenshot 2026-09-04 144020" src="https://github.com/user-attachments/assets/831b210c-c54e-47de-b8cb-ce6603e458ad" />
+<img width="1919" height="1032" alt="Screenshot 2026-09-08 214029" src="https://github.com/user-attachments/assets/03793bf8-fb9c-4f83-8944-46392ad4f7aa" />
 
-This is the Von Mises map on my beam, and as you can see from the image the entirety of the beam sits in the green region between 56.66 MPa and 62.60 MPa which is pretty accurate for my calculated stress of 61.781 MPa. Sadly, I cannot determine the actual stress in the simulation as SolidWorks lacks any sort of "probe" feature to allow me to see the stress acting at any point along the bar. The best part is that my square bar sits well below the yield strength of the material further proving my calculation was correct.
+This is the Von Mises map on my beam, and as you can see from the image the entirety of the beam sits in the yellow region between 56.66 MPa and 62.60 MPa which is pretty accurate for my calculated stress of 61.781 MPa. Sadly, I cannot determine the actual stress in the simulation as SolidWorks lacks any sort of "probe" feature to allow me to see the stress acting at any point along the bar. The best part is that my circular bar sits well below the yield strength of the material further proving my calculation was correct.
 
 _Factor of Safety Map of Beam_
 
-<img width="1913" height="1033" alt="Screenshot 2026-09-08 051619" src="https://github.com/user-attachments/assets/32f5ce53-c2bf-44c5-80c6-f9d6350a909d" />
+****<img width="1919" height="1032" alt="Screenshot 2026-09-08 214013" src="https://github.com/user-attachments/assets/2ec1e9c6-9506-4e86-abee-4e7fc92589cf" />
 
 This is the Factor of Safety map on my beam; I decided to set the FOS higher than its standard of 1 to show how my beam's calculated FOS was up to at least 4 since I calculated it had an FOS of 4.45.
 
 ## **Design Reflection**
 a.)
-So the axial deflection from my calculations was 0.2286mm while the one in the FEA was 0.2284mm, these two values are practically similar, and it comes down to the parametric length equation I used to determine the correct length of my square bar, the chosen cross-sectional area, and the applied force of 2224.11 N. These three things allowed for my deflection in both calculation and in the FEA to be almost identical to each other due to these determined and predetermined factors. Now as for the percent difference between the two, |calculated-FEA/calculated| X 100%, and after plugging in the numbers I ended up with a 0.0874% difference.
+So the axial deflection from my calculations was 0.2286mm while the one in the FEA was 0.2284mm, these two values are practically similar, and it comes down to the parametric length equation I used to determine the correct length of my circular bar, the chosen cross-sectional area, and the applied force of 2224.11 N. These three things allowed for my deflection in both calculation and in the FEA to be almost identical to each other due to these determined and predetermined factors. Now as for the percent difference between the two, |calculated-FEA/calculated| X 100%, and after plugging in the numbers I ended up with a 0.0874% difference.
 
 <img width="2792" height="1393" alt="IMG_3408" src="https://github.com/user-attachments/assets/59a37d17-ef42-4a24-b9c5-68142c8b8236" />
 
