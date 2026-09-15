@@ -12,7 +12,11 @@ _Knowns and Unknowns_
 
 So, some of the knowns and decisions for feature one that I had made includes the following: E=2.0 GPa, P=300 N, Material of Choice-ABS, Max Deflection=0.3 mm, Yield Stress=30 MPa, Factor of Safety=3.0, Weight of the motor is negligible, making the length of feature one 48 mm, and the height 10 mm respectively. There were not a lot of unknowns as I really only had to determine the area and base of feature from both the beam bending equation and the bending stress equation. I also decided to split up the mount in the same way it appears in appendix B to help me get a start in the design process of the mount.
 
+_Free Body Diagram_
 
+<img width="2589" height="1245" alt="IMG_3424 (1)" src="https://github.com/user-attachments/assets/7ca7c76a-df54-40a0-96b5-1522a30061b3" />
+
+Here is the FBD of feature one with the applied height, length, and force. Since I had already determined the height of feature one it allowed me to determine how much of the shaft stuck out of feature one allowing me to calculate a moment being applied onto feature one. I was able to determine how much shaft stuck out by taking the shafts length of 16 mm and subtracting it from the height of feature one which was 10 mm, 16 mm-10 mm = 6mm, this in turn left me with 6 mm of shaft sticking out of feature one and this in turn allowed me to calculate a moment acting on feature one, M = 6 mm * 300 N = 1800 N*mm. I also went ahead and put the reaction force (Ry) and reaction moment (MR) to complete my entire FBD of feature one.
 
 ## **Feature 2**
 
