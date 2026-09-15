@@ -55,10 +55,24 @@ As for the rest equations I just had to rearrange both to solve for L-Free, plug
 
 ## **Sketch**
 
+_Isometric Drawing_
 
+<img width="3024" height="4032" alt="IMG_3430" src="https://github.com/user-attachments/assets/b3536c3d-41c4-4145-a7e7-127d5d4a7c24" />
 
 ## **Cad Model**
 
+_Model_
+
+<img width="1298" height="806" alt="image" src="https://github.com/user-attachments/assets/765e5b03-91e9-49b8-90df-15ad8de09b62" />
+
+This was the CAD model I had generated inside of SolidWorks; I added the shaft and M3 bolt hole clearances- 6 mm and 3.4 mm respectively; I also decided an indentation into the mount since the side with the shaft has a 2mm indentation with an 18 mm diameter. On top of this in an attempt to reduce the deflection I added a radius 5mm fillet onto inner corner of the mount adding this should hopefully allow the force and stress to transfer smoothly through part instead of making an aggressive 90-degree angle turn to make its way from feature one into feature two.
+
+_Parametrics_
+
+<img width="1206" height="770" alt="image" src="https://github.com/user-attachments/assets/5b4617c0-ceb7-4e1f-88a4-daec785c2539" />
+
+Here are the two parametric equations that I said I was going to use earlier in my work one helps define the base of feature one and the other helps give feature two its total length as stated earlier in my work. The middle equation came from an indecisive descision earlier and was a mistake.
 
 ## **Time Spent**
 
+Overall, I spent a total of 6 hours working to complete A4. 
