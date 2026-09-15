@@ -10,7 +10,7 @@ _Knowns and Unknowns_
 
 <img width="2609" height="2417" alt="IMG_3424" src="https://github.com/user-attachments/assets/bf675c89-b9bf-4397-9e27-ede7bf946009" />
 
-So, some of the knowns and decisions for feature one that I had made includes the following: E=2.0 GPa, P=300 N, Material of Choice-ABS, Max Deflection=0.3 mm, Yield Stress=30 MPa, Factor of Safety=3.0, Weight of the motor is negligible, making the length of feature one 48 mm, and the height 10 mm respectively. There were not a lot of unknowns as I really only had to determine the area and base of feature from both the beam bending equation and the bending stress equation. I also decided to split up the mount in the same way it appears in appendix B to help me get a start in the design process of the mount.
+So, some of the knowns and decisions for feature one that I had made includes the following: E=2.0 GPa, P=300 N, Material of Choice-ABS, Max Deflection=0.3 mm, Yield Stress=30 MPa, Factor of Safety=3.0, Weight of the motor is negligible, making the length of feature one 48 mm, and the height 10 mm respectively. There were not a lot of unknowns as I really only had to determine the area, base, and actual stress of feature one from both the beam bending equation and the bending stress equation. I also decided to split up the mount in the same way it appears in appendix B to help me get a start in the design process of the mount.
 
 _Free Body Diagram_
 
@@ -26,15 +26,35 @@ I only had to use three equations here the Factor of Safety equation (FOS= stres
 
 <img width="2688" height="2227" alt="IMG_3426" src="https://github.com/user-attachments/assets/e46ca15b-b54b-4b68-a501-4e5a019a0529" />
 
-Now it was time to do the same for the beam bending equation and obtain a value for the base of feature one. So, I rearranged the beam bending equation to solve for b and ended up with, (12/h^3)((M*L^2)/2(E * deformation) + ((pi)(d^4)/64))), then after putting my numbers into the equation I ended up with a much larger base compared to the one I obtained in the beam bending equation b=42.24 mm. This is where the choice happens, do I take the smaller area from the bending stress equation or do I take the larger area from the beam bending equation. I obviously took the larger area as the smaller area is just the bare minimum while the larger area gives my motor mount a lot more room to breathe, stress/force wise that is since there is more area for the force to cover.
+Now it was time to do the same for the beam bending equation and obtain a value for the base of feature one. So, I rearranged the beam bending equation to solve for b and ended up with, (12/h^3)((M*L^2)/2(E * deformation) + ((pi)(d^4)/64))), then after putting my numbers into the equation I ended up with a much larger base compared to the one I obtained in the beam bending equation b=42.24 mm. This is where the choice happens, do I take the smaller area from the bending stress equation or do I take the larger area from the beam bending equation. I obviously took the larger area as the smaller area is just the bare minimum while the larger area gives my motor mount a lot more room to breathe, stress/force wise that is since there is more area for the force to cover. This equation will be used as a parametric equation later for my CAD model.
 
 ## **Feature 2**
 
 _Knowns and Unknowns_
 
+<img width="2280" height="1413" alt="IMG_3427" src="https://github.com/user-attachments/assets/bf1cc5c5-9f37-4f5d-87fe-c13c7e72fd5b" />
 
+For feature two, which is the part of the mount that is partially fixed and partially free, had a decent number of knowns and decisions: b=42.24 mm, E=2.0 GPa, h=7 mm, Max Deflection=0.3 mm, FOS=3, Yield Stress=30 MPa, P=300 N, Bolt Holes=3.4mm.
+There were only three unknowns again just like for feature one: Free Length, Fixed Length, and actual stress.
+
+_Free Body Diagram_
+
+<img width="2598" height="450" alt="IMG_3427 (1)" src="https://github.com/user-attachments/assets/a0ecd1e1-7a4e-453b-93f9-7f550c64d7bf" />
+
+The FBD of feature two was nothing special as I assumed yet again that it acted as a cantilever beam just how I assumed in feature one that it was a cantilever beam. I included the moment that was calculated originally from feature one and applied it to feature two to help me determine the lengths of the fixed and freed portions of feature two.
+
+_Equations_
+
+<img width="2664" height="1666" alt="IMG_3427" src="https://github.com/user-attachments/assets/8510e00a-0105-4ac1-ad32-35a83d170fe3" />
+
+My equations were relatively the same the only difference was one extra addition for fixed length (L-Fixed=C*d) and the fact that instead of solving for the base in both equations I would be solving for the free length in each. So, for the fixed portion of the length it was an easy and simple equation just using C=7 and d=3.4 mm which multiplied together gave me a fixed length of 23.80 mm.
+
+<img width="2939" height="3561" alt="IMG_3428" src="https://github.com/user-attachments/assets/08ceae00-1a73-4d5b-aa6c-3c583c2a8568" />
+
+As for the rest equations I just had to rearrange both to solve for L-Free, plug in the numbers and see which one is larger. I yet again started with the bending stress equation and combined it with the FOS equation to help make the equation simplified and help me obtain L-Free with ease. So, after rearranging the bending stress equation to solve for L-Free I ended up with, L-Free=(1/P)((b)(h)^2(yield stress)/6(FOS) - M), after running my known values through the equation I ended up with L-Free=3.65 mm. Now that I had bending stress I could move onto the beam bending equation again which rearranged to solve for L-Free gives, L-Free=sqrt((2E(((b-2(d))h^3)/12)(deformation))/M), and after plugging my numbers in I arrived at L-Free=25.99 mm. So, know that I had both L-Free and L-Fixed I could add them up together to obtain the total length of feature two, total length=25.99 mm+23.80 mm=49.79 mm, I will also use this as another parametric equation for my CAD model.
 
 ## **Sketch**
+
 
 
 ## **Cad Model**
