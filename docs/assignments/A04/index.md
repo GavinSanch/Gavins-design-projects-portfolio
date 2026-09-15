@@ -18,7 +18,20 @@ _Free Body Diagram_
 
 Here is the FBD of feature one with the applied height, length, and force. Since I had already determined the height of feature one it allowed me to determine how much of the shaft stuck out of feature one allowing me to calculate a moment being applied onto feature one. I was able to determine how much shaft stuck out by taking the shafts length of 16 mm and subtracting it from the height of feature one which was 10 mm, 16 mm-10 mm = 6mm, this in turn left me with 6 mm of shaft sticking out of feature one and this in turn allowed me to calculate a moment acting on feature one, M = 6 mm * 300 N = 1800 N*mm. I also went ahead and put the reaction force (Ry) and reaction moment (MR) to complete my entire FBD of feature one.
 
+_Equations_
+
+<img width="2758" height="2869" alt="IMG_3425" src="https://github.com/user-attachments/assets/4efe0e2e-8c45-4cec-a614-b2be38507446" />
+
+I only had to use three equations here the Factor of Safety equation (FOS= stress yield/stress actual), bending stress equation (stress actual=(M(h/2))/I total), and the beam bending equation (deformation=(M*L^2)/2(E)(I total)). I decided to start off with the bending stress equation and try to incorporate the FOS equation into it to make a more simplified equation that would give me a value for the base (b). So, I rearranged the whole equation while also incorporating the hole the shaft made to make the base a little more accurate and I ended up with, b=(12/h^3)((M(h)(FOS)/2(yield stress))+(pi(d)^4)/64), then after plugging in my previously known values I ended up with a b=11.56 mm. 
+
+<img width="2688" height="2227" alt="IMG_3426" src="https://github.com/user-attachments/assets/e46ca15b-b54b-4b68-a501-4e5a019a0529" />
+
+Now it was time to do the same for the beam bending equation and obtain a value for the base of feature one. So, I rearranged the beam bending equation to solve for b and ended up with, (12/h^3)((M*L^2)/2(E * deformation) + ((pi)(d^4)/64))), then after putting my numbers into the equation I ended up with a much larger base compared to the one I obtained in the beam bending equation b=42.24 mm. This is where the choice happens, do I take the smaller area from the bending stress equation or do I take the larger area from the beam bending equation. I obviously took the larger area as the smaller area is just the bare minimum while the larger area gives my motor mount a lot more room to breathe, stress/force wise that is since there is more area for the force to cover.
+
 ## **Feature 2**
+
+_Knowns and Unknowns_
+
 
 
 ## **Sketch**
