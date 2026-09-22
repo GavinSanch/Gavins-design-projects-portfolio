@@ -21,7 +21,15 @@
 
 _Feature A_
 
+<img width="2674" height="3324" alt="IMG_3432" src="https://github.com/user-attachments/assets/615b3cf4-faca-4e57-b408-449870b8aa6c" />
+
+<img width="2777" height="1466" alt="IMG_3433" src="https://github.com/user-attachments/assets/8dfcf3a5-8f2a-4347-9c5f-a4eb226cc02e" />
+
 _Feature B_
+
+<img width="2634" height="2276" alt="IMG_3433 (1)" src="https://github.com/user-attachments/assets/6c83b917-0bc3-4f4b-9bb1-ba39e3120815" />
+
+<img width="2446" height="3042" alt="IMG_3434" src="https://github.com/user-attachments/assets/d6fb23d8-8383-4da8-9c72-a2fadaf55516" />
 
 _Feature C_
 
