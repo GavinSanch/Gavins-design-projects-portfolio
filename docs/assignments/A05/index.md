@@ -45,13 +45,19 @@ _Feature C_
 
 <img width="2357" height="2864" alt="IMG_3437" src="https://github.com/user-attachments/assets/9c58b0aa-d723-499a-a4e0-7b1891f607bb" />
 
-
+Moving on to feature C, I assumed this feature as a simply supported beam experencing no shear subjected to a central point load of 5,337.87 N applied through feature B. The total span width between the inner walls was determined to be 63.41 mm, and the length was kept constant at 23.05 mm to match the overall length of the bracket. To obtain the height of feature C, I used the maximum bending moment equation for a simply supported beam with a center load, M=Fl/4. Then with the moment portion defined I could use the bending stress equation to determine the height of feature C, the equation is as follows, stress=(M*h/2)/(bh^3/12). After simplifying the equation and rearranging for height I got this equation, sqrt((6*M/stress)/b), then once I put the numbers in, I arrived at a height of 17.90 mm.
 
 _Feature D_
 
 <img width="2569" height="3370" alt="IMG_3436" src="https://github.com/user-attachments/assets/d21344ef-7a9e-4f0c-afdb-049522db6249" />
 
+For feature D, this corresponds to the vertical side walls connecting Feature C to Feature E. Looking at the bracket geometry, the part is symmetric with two identical side walls carrying the load together in parallel. Because the total force of 5,337.87 N is shared equally between both walls, the force acting on one wall is, F=P/2= 2,668.93 N. Assuming pure axial loading again with no shear, I determined the base of feature D using the stress equation, stress=F/A. Rearranging to solve for the Area gave me this equation, A=F/stress, which after plugging in the numbers gave me an area of 38.83 mm^2. Then rearranging the area equation for base and plugging in the numbers yielded a base of 1.02 mm. 
+
 _Feature E_
+
+<img width="2482" height="3198" alt="IMG_3438" src="https://github.com/user-attachments/assets/e2e7d09f-c54b-4d20-b422-bdfeb8e7667b" />
+
+<img width="2287" height="2385" alt="IMG_3439" src="https://github.com/user-attachments/assets/ed0a8b11-3b1b-40b3-a21e-3e6e114ffb14" />
 
 _Multiview Sketch_
 
@@ -60,6 +66,8 @@ _CAD Model_
 ## **Diemensions Based on Stiffness Analysis**
 
 _Feature A_
+
+<img width="2304" height="2923" alt="IMG_3440" src="https://github.com/user-attachments/assets/46f6d46f-3679-43bc-9035-66c98bc1cf7c" />
 
 _Feature B_
 
