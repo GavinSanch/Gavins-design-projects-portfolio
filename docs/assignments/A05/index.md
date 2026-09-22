@@ -41,7 +41,15 @@ To determine the actual stress affecting feature B I used the FOS equation and r
 
 _Feature C_
 
+<img width="2379" height="3272" alt="IMG_3435" src="https://github.com/user-attachments/assets/10a43cb7-df7d-40ec-9575-b6831b511d1d" />
+
+<img width="2357" height="2864" alt="IMG_3437" src="https://github.com/user-attachments/assets/9c58b0aa-d723-499a-a4e0-7b1891f607bb" />
+
+
+
 _Feature D_
+
+<img width="2569" height="3370" alt="IMG_3436" src="https://github.com/user-attachments/assets/d21344ef-7a9e-4f0c-afdb-049522db6249" />
 
 _Feature E_
 
