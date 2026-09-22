@@ -23,6 +23,8 @@ _Feature A_
 
 <img width="2674" height="3324" alt="IMG_3432" src="https://github.com/user-attachments/assets/615b3cf4-faca-4e57-b408-449870b8aa6c" />
 
+So, for feature A I had to assume that it was a cantilever beam with a distributed load of F2 applied across it based on the dimensions of the strap, force, Factor of Safety, material, and its properties. The material I choose was 6061-T6 Aluminum which has a Young's Modulus of 69000 N/mm^2 and a Yield Strength of 275 N/mm^2, I also decided to use a 600-pound force applied to the feature which converted to SI gives 2668.93 N. That force of 2668.93 N times two gave me 5337.87 N of force being applied to feature A. What I had to find was the area of feature A, the radius of feature A
+
 <img width="2777" height="1466" alt="IMG_3433" src="https://github.com/user-attachments/assets/8dfcf3a5-8f2a-4347-9c5f-a4eb226cc02e" />
 
 _Feature B_
