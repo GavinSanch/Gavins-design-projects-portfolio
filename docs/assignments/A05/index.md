@@ -61,7 +61,15 @@ _Feature E_
 
 _Multiview Sketch_
 
+<img width="2793" height="3525" alt="IMG_3448" src="https://github.com/user-attachments/assets/2208d31d-b1f2-405f-81b1-826d31ff80cd" />
+
+Here is the Multiview sketch with three views, front/right/top, and fully dimensioned with hidden lines and center lines.
+
 _CAD Model_
+
+<img width="689" height="656" alt="Screenshot 2026-09-22 060845" src="https://github.com/user-attachments/assets/2df1b980-fd3a-4322-8fa2-c75bf77bf93c" />
+
+Here is the full 3-D CAD model made in SolidWorks with correct material properties and designed using some parametric equations.
 
 ## **Diemensions Based on Stiffness Analysis**
 
@@ -79,7 +87,15 @@ _Feature E_
 
 _Multiview Sketch_
 
+<img width="2646" height="3331" alt="IMG_3449" src="https://github.com/user-attachments/assets/d08d90dd-b56a-43b7-951a-00ea1501dd79" />
+
+Here is the Multiview sketch with three views, front/right/top, and fully dimensioned with hidden lines and center lines.
+
 _CAD Model_
+
+<img width="638" height="637" alt="Screenshot 2026-09-22 060824" src="https://github.com/user-attachments/assets/cb15fd9c-14e5-40c0-ab0e-740915af6abf" />
+
+Here is the full 3-D CAD model made in SolidWorks with correct material properties and designed using some parametric equations.
 
 ## **Lessons Learned**
 
