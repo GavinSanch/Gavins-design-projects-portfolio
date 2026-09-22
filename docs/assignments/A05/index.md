@@ -59,6 +59,8 @@ _Feature E_
 
 <img width="2287" height="2385" alt="IMG_3439" src="https://github.com/user-attachments/assets/ed0a8b11-3b1b-40b3-a21e-3e6e114ffb14" />
 
+Finally for feature E, these are the top overhang lips that rest against the Rigid-T Beam surface. To simplify the analysis, I treated each feature as a cantilever beam subjected to a distributed load spread across its overhang base=25.38 mm. Just like feature D, the total load is split in half across the symmetric left and right lips, giving F=2,668.93 N per feature. For a cantilever with a distributed load, the maximum bending moment at the fixed end is M=Fl/4. Then with the moment accounted for I could use the bending stress equation to determine the height of feature E the same way I did with feature C, the equation goes like this, stress=(M* h/2)/(bh^3/12). Then after simplifying the equation and rearranging for height I got this equation, sqrt((6*M/stress)/b), then once I put the numbers in, I got a height of    11.32 mm.
+
 _Multiview Sketch_
 
 <img width="2793" height="3525" alt="IMG_3448" src="https://github.com/user-attachments/assets/2208d31d-b1f2-405f-81b1-826d31ff80cd" />
