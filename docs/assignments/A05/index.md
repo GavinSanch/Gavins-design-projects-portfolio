@@ -77,13 +77,35 @@ _Feature A_
 
 <img width="2304" height="2923" alt="IMG_3440" src="https://github.com/user-attachments/assets/46f6d46f-3679-43bc-9035-66c98bc1cf7c" />
 
+<img width="2435" height="2611" alt="IMG_3441" src="https://github.com/user-attachments/assets/3604c56a-9fb2-4856-bc04-712a6857ce39" />
+
+
+
 _Feature B_
+
+<img width="2508" height="3058" alt="IMG_3442" src="https://github.com/user-attachments/assets/2fca1199-46d9-4777-8aea-8fd12f38b08a" />
+
+<img width="2265" height="1390" alt="IMG_3443" src="https://github.com/user-attachments/assets/9a2d6781-9ca2-4f92-be15-82c7f1be4ed9" />
+
+
 
 _Feature C_
 
+<img width="2326" height="3104" alt="IMG_3444" src="https://github.com/user-attachments/assets/998936ac-b7a3-491c-8e7b-d35ad237a411" />
+
+<img width="2398" height="1133" alt="IMG_3445" src="https://github.com/user-attachments/assets/376a6847-5559-4a19-bf1e-5606b2c7b64b" />
+
+
+
 _Feature D_
 
+<img width="2414" height="3316" alt="IMG_3446" src="https://github.com/user-attachments/assets/58195141-e706-4d84-b7ee-6b5b51e7928b" />
+
+
+
 _Feature E_
+
+<img width="2637" height="3561" alt="IMG_3447" src="https://github.com/user-attachments/assets/44f07f71-b55c-449c-87d2-0f79e2963306" />
 
 _Multiview Sketch_
 
