@@ -17,11 +17,40 @@
 -Reflect on and document key engineering lessons learned throughout the process.
 
 
-## Analyze
+## **Diemensions Based on Stress Analysis**
 
+_Feature A_
 
-## Decide
+_Feature B_
 
+_Feature C_
 
-## Communicate
+_Feature D_
 
+_Feature E_
+
+_Multiview Sketch_
+
+_CAD Model_
+
+## **Diemensions Based on Stiffness Analysis**
+
+_Feature A_
+
+_Feature B_
+
+_Feature C_
+
+_Feature D_
+
+_Feature E_
+
+_Multiview Sketch_
+
+_CAD Model_
+
+## **Lessons Learned**
+
+## **Time Spent on A5**
+
+## **Link to CAD Model**
