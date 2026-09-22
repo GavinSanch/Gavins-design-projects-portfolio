@@ -111,7 +111,7 @@ _Multiview Sketch_
 
 <img width="2646" height="3331" alt="IMG_3449" src="https://github.com/user-attachments/assets/d08d90dd-b56a-43b7-951a-00ea1501dd79" />
 
-Here is the Multiview sketch with three views, front/right/top, and fully dimensioned with hidden lines and center lines.
+Here is the Multiview sketch with three views, front/right/top, and fully dimensioned with hidden lines and center lines. Due note since feature D was so thin I drew it as a single line, but I still applied its base dimensions.
 
 _CAD Model_
 
