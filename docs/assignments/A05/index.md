@@ -81,7 +81,7 @@ _Feature A_
 
 <img width="2435" height="2611" alt="IMG_3441" src="https://github.com/user-attachments/assets/3604c56a-9fb2-4856-bc04-712a6857ce39" />
 
-
+So, starting back again with feature A, we mostly have the same knowns and unknowns here the only difference is I won't be using the stress/bending stress/FOS equation for these features since know we are basing them off stiffness analysis with a deflection of 0.005 in which converted to SI yields 0.127 mm. We still assume that feature A is a cantilever beam with a distributed load of 2F and undergoes no shear, and we are still trying to find the area and radius of feature A. So, the equation we will be using for feature A will be the beam bending equation for a cantilever beam with a distributed load, deflection=(wL^4)/(8E(pi(r)^4/4), which rearranged to solve for r gives, 4sqrt((F/L(L)^4)/deflection/(8E(pi/4))), then once I plugged the numbers in I got a smaller radius of 5.87 mm which multiplied by two gave me a diameter of 11.74 mm.
 
 _Feature B_
 
@@ -89,7 +89,7 @@ _Feature B_
 
 <img width="2265" height="1390" alt="IMG_3443" src="https://github.com/user-attachments/assets/9a2d6781-9ca2-4f92-be15-82c7f1be4ed9" />
 
-
+With feature B we use the deformation equation this time while still assuming pure axial loading while under no shear, which looks like this, deflection=FL/EA, we still need to determine its height, length, and area. As we know the base of feature B is the same as the diameter of feature A so that is already predetermined. So, to get the length we use the same equation we used before, strap thickness+radius of feature A+1.75 mm extra clearance, after I plugged the number in, I got a smaller length of 8.814 mm. To get the height of feature B we need to rearrange the deflection equation to solve for h, which looks like this, h=(FL)/(deflection*Eb), after I put my variables in, I arrived at a measly height of 0.46 mm.
 
 _Feature C_
 
@@ -97,13 +97,13 @@ _Feature C_
 
 <img width="2398" height="1133" alt="IMG_3445" src="https://github.com/user-attachments/assets/376a6847-5559-4a19-bf1e-5606b2c7b64b" />
 
-
+For feature C I still assumed it was a simply supported beam with no shear however the equation we use this time is the beam bending equation for a concentrated load located in the middle, deflection=(F(L)^3)/(48(EI)). So, to determine the height of feature C once again we need to break up I and rearrange the equation for h, h=3sqrt((F(L^3))/(deflection(48(E(b/12))))), then after running the numbers I ended up with a height if 11.90 mm
 
 _Feature D_
 
 <img width="2414" height="3316" alt="IMG_3446" src="https://github.com/user-attachments/assets/58195141-e706-4d84-b7ee-6b5b51e7928b" />
 
-
+With feature D we once again use the deformation equation while still assuming pure axial loading while under no shear, which looks like this, deflection=FL/EA, this time we need to determine its base and area. As we know the length of feature D is still 23.05 mm.  To get the base of feature D we need to rearrange the deflection equation to solve for b this time instead of h, which looks like this, b=(FL)/(deflection*Eb), after I put my variables in, I arrived at a very small base of 0.18 mm.
 
 _Feature E_
 
