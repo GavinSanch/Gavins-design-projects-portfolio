@@ -81,7 +81,7 @@ _Feature A_
 
 <img width="2435" height="2611" alt="IMG_3441" src="https://github.com/user-attachments/assets/3604c56a-9fb2-4856-bc04-712a6857ce39" />
 
-So, starting back again with feature A, we mostly have the same knowns and unknowns here the only difference is I won't be using the stress/bending stress/FOS equation for these features since know we are basing them off stiffness analysis with a deflection of 0.005 in which converted to SI yields 0.127 mm. We still assume that feature A is a cantilever beam with a distributed load of 2F and undergoes no shear, and we are still trying to find the area and radius of feature A. So, the equation we will be using for feature A will be the beam bending equation for a cantilever beam with a distributed load, deflection=(wL^4)/(8E(pi(r)^4/4), which rearranged to solve for r gives, 4sqrt((F/L(L)^4)/deflection/(8E(pi/4))), then once I plugged the numbers in I got a smaller radius of 5.87 mm which multiplied by two gave me a diameter of 11.74 mm.
+So, starting back again with feature A, we mostly have the same knowns and unknowns here the only difference is I won't be using the stress/bending stress/FOS equation for these features since know we are basing them off stiffness analysis with a deflection of 0.005 in which converted to SI yields 0.127 mm. We still assume that feature A is a cantilever beam with a distributed load of 2F that undergoes no shear, and we are still trying to find the area and radius of feature A. So, the equation we will be using for feature A will be the beam bending equation for a cantilever beam with a distributed load, deflection=(wL^4)/(8E(pi(r)^4/4), which rearranged to solve for r gives, r=4sqrt((F/L(L)^4)/deflection/(8E(pi/4))), then once I plugged the numbers in I got a smaller radius of 5.87 mm which multiplied by two gave me a diameter of 11.74 mm.
 
 _Feature B_
 
@@ -106,6 +106,8 @@ _Feature D_
 With feature D we once again use the deformation equation while still assuming pure axial loading while under no shear, which looks like this, deflection=FL/EA, this time we need to determine its base and area. As we know the length of feature D is still 23.05 mm.  To get the base of feature D we need to rearrange the deflection equation to solve for b this time instead of h, which looks like this, b=(FL)/(deflection*Eb), after I put my variables in, I arrived at a very small base of 0.18 mm.
 
 _Feature E_
+
+For feature E we still assume it is a cantilever beam with a distributed load of F that undergoes no shear, but this time we are determining the height of the feature unlike determining the radius with feature A, also the length will match the entire length of the bracket. So, the equation we will be using for feature E will be the beam bending equation for a cantilever beam with a distributed load, deflection=(wL^4)/(8EI), which rearranged to solve for h gives, h=sqrt((F/2/L(L)^4)/deflection(8E(l))), then once I plugged the numbers in I got a smaller height of 6.87 mm.
 
 <img width="2637" height="3561" alt="IMG_3447" src="https://github.com/user-attachments/assets/44f07f71-b55c-449c-87d2-0f79e2963306" />
 
