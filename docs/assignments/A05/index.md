@@ -125,6 +125,16 @@ Here is the full 3-D CAD model made in SolidWorks with correct material properti
 
 ## **Lessons Learned**
 
+For my feature D its base was really small when I did it the first time around using stress analysis,1.02 mm, but I was so surprised how much it shrunk when using stiffness analysis as the base I got for this analysis was ,0.18 mm, which is very small. The base in stress analysis is way bigger compared to that in stiffness analysis.
+
+One value that snuck into my stiffness analysis was me trying to use the same diameter from stress analysis as the base for feature B in stiffness analysis which gave me a huge error and required me to redo it. I also did the same thing when determining the length of feature B in stiffness analysis when I used the radius of feature A during stress analysis.
+
+One major choice I made while making this bracket was to make it symmetric right down the middle and I did this to help cut off a lot of extra work. Now if I did not do it symmetrically any equation that would require I or y would change drastically as the location of the centroid and how the moment of inertia would be applied would cause the equations to change based on these two things since both require the location of the centroid to be calculated properly.
+
 ## **Time Spent on A5**
 
-## **Link to CAD Model**
+I spent a total of 7 hours on A5.
+
+## **Link to CAD Models**
+
+https://drive.google.com/drive/u/0/folders/10DFSwI0rB65WbiiGPRU5_ByX2crF3UGg
