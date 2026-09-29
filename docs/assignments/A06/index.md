@@ -48,10 +48,24 @@ _Stiffness Analysis Drawing_
 
 <img width="1141" height="880" alt="image" src="https://github.com/user-attachments/assets/5a86d259-e02a-4b93-96a3-45872c28c3dc" />
 
-This is the drawing of the Bracket with stiffness analysis in mind, I made sure to add everything previously added in the stress analysis based drawing such as the ceneter mark, center lines, hidden lines, Third Angle Projection Symbol and etc.
+This is the drawing of the Bracket with stiffness analysis in mind, I made sure to add everything previously added in the stress analysis-based drawing such as the center mark, center lines, hidden lines, Third Angle Projection Symbol and etc. Obviously, some of the dimensions are smaller here due to using deflection-based equations instead of stress-based equations.
 
 ## **Reflections**
 
+One parametric equation I used was for feature B on the stress analysis side, the equation used for feature B was used to determine the height of B, using a combination of the normal stress equation with the Factor of Safety equation and the diameter of feature A. The way I was able to do this was by setting the Factor of Safety equation equal to the normal stress equation, then by breaking the area in base and height, I could isolate the height portion to solve for it. As stated earlier the base was already predetermined as feature B's base needed to cover over feature A, so the best way to do that was to take the diameter of A and use that as the base for feature B. Well, if the calculation changed, say like if the Factor of Safety changed or I chose a different force, then I would get an entirely different value for the height of B, changing the height of B would not have any affect on any other feature within the model as no other feature has the height of B in their parametric equation.
+
+A couple places that I had to apply tighter tolerances was around the main cavity area of the bracket where it fits onto the Rigid-T beam, I needed the tolerances to be tight there to prevent the bracket from being too loose of a fit onto the beam and also preventing it from being not big enough to fit onto the beam. So, by applying a tighter tolerance to those regions in particular it makes sure that the bracket will fit well onto the Rigid-T beam. As for some of my other dimensions say the height or width of the bracket those would not matter as much as they are not making contact onto anything or trying to fit onto to something so they have looser tolerances compared to some of my other dimensions like the part that has to fit around the Rigid-T beam.
+
+## **Lessons Learned**
+
+A good lesson I learned in this assignment is knowing which dimensions in the drawings need looser or tighter tolerances. As just stated in the reflection, something like the height of the bracket can be given a loose tolerance as it does not make contact with anything or fit around something allowing for the tolerance to be loose. On the other hand, the internal cavity where the bracket fits around the Rigid-T beam need to have tighter tolerances so it can fit properly around the beam otherwise if the part is manufactured with a loose tolerance it most likely will not fit properly onto the Rigid-T beam.
+
 ## **Time Taken on Assignment**
 
+The overall time it took me to complete this assigmnent was around three hours.
+
 ## **Model/Drawing Links**
+
+I am deciding to provide the model links again from A5
+
+https://drive.google.com/drive/folders/1h2l4XzkjOTJ58OEj_yXmsrLULNwk89K0?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
