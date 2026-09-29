@@ -1,4 +1,4 @@
-# A6 – [Topic]
+# A6 – Bracket Drawings
 
 ## **Objective**
 
@@ -8,15 +8,17 @@
 
 -Detail any mistakes through the process
 
--Create a lessons learned section
+-Create a reflections section
 
 -Time taken on assignment
 
-## Analyze
+## **Parametric Designs**
 
 
-## Decide
+## **Drawings**
 
+## **Reflections**
 
-## Communicate
+## **Time Taken on Assignment**
 
+## **Model/Drawing Links**
