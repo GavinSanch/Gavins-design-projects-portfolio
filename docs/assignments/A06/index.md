@@ -38,6 +38,18 @@ This picture here represents the same geometric features I was trying to find, b
 
 ## **Drawings**
 
+_Stress Analysis Drawing_
+
+<img width="1119" height="865" alt="image" src="https://github.com/user-attachments/assets/b3974650-2d6d-40aa-906f-f29df20402fc" />
+
+This is the drawing of the Bracket with stress analysis in mind, I made sure to add the center mark and center lines in the appropriate views and set the multiview to have hidden lines present, I also made sure to add appropriate dimensions to each view accordingly. On top of this I added the Third Angle Projection Symbol since this drawing will be based with AMSE in mind, gave the drawing a title and number, added what material was used, added an isometric in the top right of the multiview, added tolerances for one, two, and three decimal places, added a date and name of who it was drawn by, and lastly changed the dimension format to inches to match up with the Third Angle Projection Symbol.
+
+_Stiffness Analysis Drawing_
+
+<img width="1141" height="880" alt="image" src="https://github.com/user-attachments/assets/5a86d259-e02a-4b93-96a3-45872c28c3dc" />
+
+This is the drawing of the Bracket with stiffness analysis in mind, I made sure to add everything previously added in the stress analysis based drawing such as the ceneter mark, center lines, hidden lines, Third Angle Projection Symbol and etc.
+
 ## **Reflections**
 
 ## **Time Taken on Assignment**
