@@ -46,7 +46,7 @@ This is the drawing of the Bracket with stress analysis in mind, I made sure to 
 
 _Stiffness Analysis Drawing_
 
-<img width="1141" height="880" alt="image" src="https://github.com/user-attachments/assets/5a86d259-e02a-4b93-96a3-45872c28c3dc" />
+<img width="1159" height="880" alt="image" src="https://github.com/user-attachments/assets/72d66d00-dc26-486d-91e0-3686c01720c0" />
 
 This is the drawing of the Bracket with stiffness analysis in mind, I made sure to add everything previously added in the stress analysis-based drawing such as the center mark, center lines, hidden lines, Third Angle Projection Symbol and etc. Obviously, some of the dimensions are smaller here due to using deflection-based equations instead of stress-based equations.
 
