@@ -30,7 +30,11 @@ _Parametric Based on Stiffness Analysis_
 
 <img width="387" height="517" alt="image" src="https://github.com/user-attachments/assets/cbf232ce-6344-4e93-81de-7c50a15bae5f" />
 
+This is the model of the bracket based on stiffness analysis, where deformation was specified to be about 0.005 in, meaning I had to solely use deformation equations when determining the dimensions of features A through E.
 
+<img width="1365" height="339" alt="image" src="https://github.com/user-attachments/assets/decac0e3-2e80-4b54-a7fc-2be8059771c0" />
+
+This picture here represents the same geometric features I was trying to find, but now it's using the deformation equations for axial loads and beams. All of these dimensions came out smaller than their stress analysis counterparts especially feature D and B which came out too 0.18 mm and 0.46 mm respectively. I still used the same assumptions for features A-E and based some of the features around the dimensions of the Rigid-T beam and the strap. This model would break/fracture/crack under the applied 600-pound load due to the fact that all the equations used here were based using a deformation of 0.005 in. With this in mind it would definitely be better to use the bracket that was designed with stress analysis in mind as it contains dimensions with much greater values than the ones based on stiffness analysis.
 
 ## **Drawings**
 
