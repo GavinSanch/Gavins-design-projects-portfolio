@@ -68,4 +68,4 @@ The overall time it took me to complete this assigmnent was around three hours.
 
 I am deciding to provide the model links again from A5
 
-https://drive.google.com/drive/folders/1h2l4XzkjOTJ58OEj_yXmsrLULNwk89K0?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
+https://drive.google.com/drive/folders/1h2l4XzkjOTJ58OEj_yXmsrLULNwk89K0?usp=sharing
