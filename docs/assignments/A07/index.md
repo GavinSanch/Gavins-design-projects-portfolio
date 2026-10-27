@@ -17,11 +17,13 @@
 
 -Reflect on key engineering lessons learned and time spent.
 
-## Analyze
+## **Design #1**
 
 
-## Decide
+## **Design #2**
 
 
-## Communicate
+## **Design #3**
+
+## **Time Spent on Assignment**
 
