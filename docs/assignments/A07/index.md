@@ -23,7 +23,7 @@
 
 <img width="508" height="584" alt="image" src="https://github.com/user-attachments/assets/10a1eed6-e29f-410c-80c1-61bcaa179358" />
 
-- 1st Iteration
+-1st Iteration
 
 <img width="489" height="592" alt="Screenshot 2026-10-26 190643" src="https://github.com/user-attachments/assets/b79b1a97-690a-4a58-8192-62fa4289238e" />
 
@@ -33,7 +33,7 @@
 
 <img width="552" height="655" alt="Screenshot 2026-10-26 214318" src="https://github.com/user-attachments/assets/141aa875-6be4-4c8c-9ffb-23535e98d22b" />
 
-- 2nd Iteration 
+-2nd Iteration 
 
 <img width="532" height="644" alt="Screenshot 2026-10-26 214650" src="https://github.com/user-attachments/assets/8f3b2713-a5ee-4856-a2c7-044f680cd95a" />
 
@@ -43,7 +43,7 @@
 
 <img width="584" height="624" alt="Screenshot 2026-10-26 214822" src="https://github.com/user-attachments/assets/6eed1f2f-0e0a-4a4d-911d-07331c226177" />
 
-- 3rd Iteration
+-3rd Iteration
 
 <img width="548" height="659" alt="Screenshot 2026-10-26 215514" src="https://github.com/user-attachments/assets/69331051-d2d6-49d0-9a32-7e1e9b2de850" />
 
@@ -53,13 +53,17 @@
 
 <img width="552" height="656" alt="Screenshot 2026-10-26 215614" src="https://github.com/user-attachments/assets/a1b6e843-4ea7-40c1-b548-b2c94e1abb80" />
 
+-Calculations
+
+<img width="3024" height="4032" alt="IMG_3498" src="https://github.com/user-attachments/assets/0102566c-fa46-480b-afe3-7da83f5ae04a" />
+
 ## **Design #2**
 
 
 
 <img width="465" height="599" alt="Screenshot 2026-10-26 213346" src="https://github.com/user-attachments/assets/4d9279a4-8252-4e41-839b-ae0ee4e4f236" />
 
-- 1st Iteration
+-1st Iteration
 
 <img width="636" height="737" alt="Screenshot 2026-10-26 213748" src="https://github.com/user-attachments/assets/9af84306-e17f-4c5c-9c2b-f4ac397716cc" />
 
@@ -88,6 +92,10 @@
 <img width="696" height="696" alt="Screenshot 2026-10-26 230220" src="https://github.com/user-attachments/assets/f521cb0c-79ac-4ea1-a2b7-bfcc36525c03" />
 
 <img width="475" height="630" alt="Screenshot 2026-10-26 230230" src="https://github.com/user-attachments/assets/f0f9f6e2-6c6b-4919-98e0-73a40e69bc65" />
+
+-Calculations
+
+<img width="3024" height="4032" alt="IMG_3500" src="https://github.com/user-attachments/assets/c7a38347-2c12-4947-afaf-c8e0a1fc928f" />
 
 ## **Design #3**
 
@@ -122,6 +130,10 @@
 <img width="732" height="726" alt="Screenshot 2026-10-26 234756" src="https://github.com/user-attachments/assets/42fa7731-d707-4788-a4e7-6018539b2d36" />
 
 <img width="718" height="707" alt="Screenshot 2026-10-26 234805" src="https://github.com/user-attachments/assets/0e1c50c9-5e3a-483a-ae7c-da29d8352cd6" />
+
+-Calculations
+
+<img width="3024" height="4032" alt="IMG_3501" src="https://github.com/user-attachments/assets/3ec324be-6633-4f06-967d-3681a3df4329" />
 
 ## **Table Data**
 
