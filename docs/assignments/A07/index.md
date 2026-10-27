@@ -59,7 +59,7 @@ For my first design I started out with my base model from A5 Bracket Design, the
 
 ## **Design #2**
 
-For my second design I decided to add fillets around feature B, feature C, an feature E to help not only relieve stress, but also deflection. Sadly though this did not bring my model closer to converging, it at first converged at stress and FOS
+For my second design I decided to add fillets around feature B, feature C, an feature E to help not only relieve stress, but also deflection. Sadly though this did not bring my model closer to converging, it at first converged at stress and FOS but not deflection, but then once I made the mesh finer it converged only at the deflection.
 
 <img width="465" height="599" alt="Screenshot 2026-10-26 213346" src="https://github.com/user-attachments/assets/4d9279a4-8252-4e41-839b-ae0ee4e4f236" />
 
@@ -98,6 +98,8 @@ For my second design I decided to add fillets around feature B, feature C, an fe
 <img width="3024" height="4032" alt="IMG_3500" src="https://github.com/user-attachments/assets/c7a38347-2c12-4947-afaf-c8e0a1fc928f" />
 
 ## **Design #3**
+
+AS for my third and final design I tried to extend the overall thickness of the material by 4 mm and removed a bit of material in parts of the model in hopes of making it lightweight and decreasing stress and deflection even more. However, my model still did not converge even on this third design, it only converged at the deflection but not at stress/FOS.
 
 <img width="513" height="606" alt="Screenshot 2026-10-26 232217" src="https://github.com/user-attachments/assets/03a245e7-de69-4c2b-b3ba-6d240e2600cd" />
 
@@ -139,11 +141,16 @@ For my second design I decided to add fillets around feature B, feature C, an fe
 
 <img width="867" height="178" alt="image" src="https://github.com/user-attachments/assets/588288bc-9ac0-41cf-af1b-ce2faec316ed" />
 
-
+This is my table data which I constructed in excel, I included all that was asked of including the location of max stress and max defelction.
 
 ## **Reflection**
 
-
+It seems none of my models were able to fully converge, either that or they partially converged in some areas, stress/FOS/deflection, it seems I might have to update my modeling skills and improve on design analysis to have a better understanding of what it takes to make a good model. However, I also feel like it was not my fault as whenever I would make the model extra fine the stress on the 3rd iteration for each would jump up and be concentrated at the connection between feature A to feature B, so I am uncertain if it was my lack of improving the model or if it was some error from the simulation.
 
 ## **Time Spent on Assignment**
 
+Total time spent on assignment was roughly 3.5 hours.
+
+## **Link to Improved Model**
+
+https://drive.google.com/drive/folders/1n5fWSi0gqHMopoIcwYJDRJTjh5AxK3vm?usp=sharing
