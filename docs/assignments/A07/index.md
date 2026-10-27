@@ -19,6 +19,10 @@
 
 ## **Design #1**
 
+
+
+<img width="508" height="584" alt="image" src="https://github.com/user-attachments/assets/10a1eed6-e29f-410c-80c1-61bcaa179358" />
+
 <img width="489" height="592" alt="Screenshot 2026-10-26 190643" src="https://github.com/user-attachments/assets/b79b1a97-690a-4a58-8192-62fa4289238e" />
 
 <img width="825" height="676" alt="Screenshot 2026-10-26 214258" src="https://github.com/user-attachments/assets/de3024c8-b7f6-4982-8453-17db9196a706" />
@@ -44,6 +48,8 @@
 <img width="552" height="656" alt="Screenshot 2026-10-26 215614" src="https://github.com/user-attachments/assets/a1b6e843-4ea7-40c1-b548-b2c94e1abb80" />
 
 ## **Design #2**
+
+
 
 <img width="465" height="599" alt="Screenshot 2026-10-26 213346" src="https://github.com/user-attachments/assets/4d9279a4-8252-4e41-839b-ae0ee4e4f236" />
 
