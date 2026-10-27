@@ -19,7 +19,7 @@
 
 ## **Design #1**
 
-
+For my first design I started out with my base model from A5 Bracket Design, the one I used in particular was the one with stress analysis in mind. None of these three iterations had a convergence occur so this meant I had to make a drastic design change to my model somewhere to help with this issue.
 
 <img width="508" height="584" alt="image" src="https://github.com/user-attachments/assets/10a1eed6-e29f-410c-80c1-61bcaa179358" />
 
@@ -59,7 +59,7 @@
 
 ## **Design #2**
 
-
+For my second design I decided to add fillets around feature B, feature C, an feature E to help not only relieve stress, but also deflection. Sadly though this did not bring my model closer to converging, it at first converged at stress and FOS
 
 <img width="465" height="599" alt="Screenshot 2026-10-26 213346" src="https://github.com/user-attachments/assets/4d9279a4-8252-4e41-839b-ae0ee4e4f236" />
 
