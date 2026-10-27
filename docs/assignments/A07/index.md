@@ -35,12 +35,13 @@
 
 <img width="584" height="624" alt="Screenshot 2026-10-26 214822" src="https://github.com/user-attachments/assets/6eed1f2f-0e0a-4a4d-911d-07331c226177" />
 
-<img width="436" height="577" alt="Screenshot 2026-10-26 215003" src="https://github.com/user-attachments/assets/092d357c-ee80-4a11-9dde-87582c03ce2b" />
+<img width="548" height="659" alt="Screenshot 2026-10-26 215514" src="https://github.com/user-attachments/assets/69331051-d2d6-49d0-9a32-7e1e9b2de850" />
 
+<img width="771" height="680" alt="Screenshot 2026-10-26 215557" src="https://github.com/user-attachments/assets/a859b11b-090f-40eb-b692-83263e097371" />
 
+<img width="731" height="698" alt="Screenshot 2026-10-26 215607" src="https://github.com/user-attachments/assets/88a34151-0516-4b1d-a553-1635d24484bd" />
 
-
-
+<img width="552" height="656" alt="Screenshot 2026-10-26 215614" src="https://github.com/user-attachments/assets/a1b6e843-4ea7-40c1-b548-b2c94e1abb80" />
 
 ## **Design #2**
 
