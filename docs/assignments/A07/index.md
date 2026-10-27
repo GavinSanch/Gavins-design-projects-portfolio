@@ -73,5 +73,33 @@
 
 ## **Design #3**
 
+<img width="513" height="606" alt="Screenshot 2026-10-26 232217" src="https://github.com/user-attachments/assets/03a245e7-de69-4c2b-b3ba-6d240e2600cd" />
+
+<img width="516" height="629" alt="Screenshot 2026-10-26 232314" src="https://github.com/user-attachments/assets/d485bb26-1a98-443d-a7e2-8d5b96fd21e6" />
+
+<img width="828" height="648" alt="Screenshot 2026-10-26 232403" src="https://github.com/user-attachments/assets/26389ef3-aedf-435b-9d18-27b63c6b4a31" />
+
+<img width="862" height="656" alt="Screenshot 2026-10-26 232548" src="https://github.com/user-attachments/assets/d88e9689-01de-4489-b4c8-f178b849db9a" />
+
+<img width="540" height="594" alt="Screenshot 2026-10-26 232603" src="https://github.com/user-attachments/assets/af28eaf4-34a9-41e1-a4b3-0c4ec4085233" />
+
+<img width="535" height="619" alt="Screenshot 2026-10-26 234159" src="https://github.com/user-attachments/assets/9149e1cd-712d-459d-80b9-0c9a2b89ee1f" />
+
+<img width="777" height="695" alt="Screenshot 2026-10-26 234000" src="https://github.com/user-attachments/assets/1d04d391-91d9-4b1e-9800-2ac5340ce47d" />
+
+<img width="832" height="632" alt="Screenshot 2026-10-26 234009" src="https://github.com/user-attachments/assets/d9911bfd-024d-41dc-8c41-1112828d8951" />
+
+<img width="569" height="581" alt="Screenshot 2026-10-26 234015" src="https://github.com/user-attachments/assets/10b5c420-2da5-4e4a-8b3a-1bf8c9327410" />
+
+<img width="551" height="649" alt="Screenshot 2026-10-26 234657" src="https://github.com/user-attachments/assets/84bfcfc4-2d33-4e1c-8267-1215a1f615a9" />
+
+<img width="667" height="706" alt="Screenshot 2026-10-26 234749" src="https://github.com/user-attachments/assets/cd71c232-2b33-4741-a015-7643a0f32f66" />
+
+<img width="732" height="726" alt="Screenshot 2026-10-26 234756" src="https://github.com/user-attachments/assets/42fa7731-d707-4788-a4e7-6018539b2d36" />
+
+<img width="718" height="707" alt="Screenshot 2026-10-26 234805" src="https://github.com/user-attachments/assets/0e1c50c9-5e3a-483a-ae7c-da29d8352cd6" />
+
+## **Reflection**
+
 ## **Time Spent on Assignment**
 
