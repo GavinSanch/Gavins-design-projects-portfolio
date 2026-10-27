@@ -44,7 +44,7 @@
 <img width="584" height="624" alt="Screenshot 2026-10-26 214822" src="https://github.com/user-attachments/assets/6eed1f2f-0e0a-4a4d-911d-07331c226177" />
 
 - 3rd Iteration
-- 
+
 <img width="548" height="659" alt="Screenshot 2026-10-26 215514" src="https://github.com/user-attachments/assets/69331051-d2d6-49d0-9a32-7e1e9b2de850" />
 
 <img width="771" height="680" alt="Screenshot 2026-10-26 215557" src="https://github.com/user-attachments/assets/a859b11b-090f-40eb-b692-83263e097371" />
@@ -113,7 +113,7 @@
 
 <img width="569" height="581" alt="Screenshot 2026-10-26 234015" src="https://github.com/user-attachments/assets/10b5c420-2da5-4e4a-8b3a-1bf8c9327410" />
 
-3rd Iteration
+-3rd Iteration
 
 <img width="551" height="649" alt="Screenshot 2026-10-26 234657" src="https://github.com/user-attachments/assets/84bfcfc4-2d33-4e1c-8267-1215a1f615a9" />
 
