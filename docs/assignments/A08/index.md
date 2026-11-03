@@ -42,7 +42,17 @@ Some of the assumptions/notes we were allowed to assume or take note of while do
 
 ## **Journal Bearings**
 
-## **Housing Sketch**
+<img width="3024" height="4032" alt="IMG_3519" src="https://github.com/user-attachments/assets/5d51c775-6341-4941-ac19-4f4efb5f2253" />
+
+<img width="3024" height="4032" alt="IMG_3520" src="https://github.com/user-attachments/assets/77decc54-118d-47aa-99b0-d08cb12dbd8b" />
+
+<img width="3024" height="4032" alt="IMG_3521" src="https://github.com/user-attachments/assets/88919fc8-64f7-4158-a116-d9bd7a8194a5" />
+
+<img width="3024" height="4032" alt="IMG_3522" src="https://github.com/user-attachments/assets/b6df53eb-234a-447e-9662-353abe1cbfaf" />
+
+## **Gearbox Housing Sketch**
+
+<img width="3024" height="4032" alt="IMG_3523" src="https://github.com/user-attachments/assets/be0d31bd-9818-4c32-a456-4e51c86bdbfe" />
 
 ## **CAD**
 
