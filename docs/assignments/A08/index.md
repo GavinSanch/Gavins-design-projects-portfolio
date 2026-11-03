@@ -88,11 +88,12 @@ Both of these images here are the outside and inside of the gearbox housing, I d
 
 ## **Lessons Learned**
 
-
+I feel like I learned a great deal of lessons while doing this assignment such as understanding how to get pressure, velocity, tangential and radial force, the PV factor, and using the Handbook to help me determine the material of my bearings. While on the other hand I relearned some lessons such as figuring out how to recalculate polar moment of inertia, torsional shear stress, hoop and radial stress. 
 
 ## **Time Taken for Completion**
 
-
+Total time taken to complete A8 was roughly 7-8 hours.
 
 ## **Link to CAD Models**
 
+https://drive.google.com/drive/folders/1_wYD6-V4cQnsu8tfdwGlZ58zRdZ7OcVi?usp=sharing
