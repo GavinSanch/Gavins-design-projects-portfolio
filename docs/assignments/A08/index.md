@@ -36,6 +36,10 @@ Some of the assumptions/notes we were allowed to assume or take note of while do
 
 <img width="3024" height="4032" alt="IMG_3516" src="https://github.com/user-attachments/assets/826d4895-ada9-441d-b9a2-edb00d148829" />
 
+<img width="3024" height="4032" alt="IMG_3517" src="https://github.com/user-attachments/assets/1f1e0be4-3067-4f55-bec6-c635017b4f99" />
+
+<img width="3024" height="4032" alt="IMG_3518" src="https://github.com/user-attachments/assets/74db8741-49ad-4bf9-9e27-b9620ca19b33" />
+
 ## **Journal Bearings**
 
 ## **Housing Sketch**
