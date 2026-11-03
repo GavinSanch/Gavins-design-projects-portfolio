@@ -62,6 +62,12 @@ These four images show my Calculations, FBD's, Knowns/Unknowns, and Equations us
 
 <img width="3024" height="4032" alt="IMG_3522" src="https://github.com/user-attachments/assets/b6df53eb-234a-447e-9662-353abe1cbfaf" />
 
+-_McMaster Journals based on Calculations_
+
+<img width="499" height="713" alt="Screenshot 2026-11-03 072051" src="https://github.com/user-attachments/assets/d5cf765c-4ca3-48e8-b333-194ff6b7c440" />
+
+<img width="500" height="729" alt="Screenshot 2026-11-03 072117" src="https://github.com/user-attachments/assets/9c7a6b23-b48d-4628-8af8-cd586401e62c" />
+
 ## **Gearbox Housing Sketch**
 
 This here is just a rough sketch of my Gearbox Housing that I constructed really quickly, I decided to make the housing circular to better fit around the gears and help distribute forces easier compared to a rectangular box. However, as I said this is just a rough sketch and I decided to add extra features in my CAD models. Also, the way I decided to fixate both parts of the housing was with a webbed feature on both ends with six holes to accommodate for six bolts.
@@ -70,7 +76,7 @@ This here is just a rough sketch of my Gearbox Housing that I constructed really
 
 ## **CAD**
 
-Both of these images here are the outside and inside of the gearbox housing, I decided to apply a couple of material properties to some of the models such as; making both pinion and gear out of brass as stated in their McMaster description, both shafts being made from 1045 steel cold drawn, both McMaster bearing made of 841 Bronze, the gearbox housing made out of ABS. I also added the six bolts, with nuts and washers on both sides of the webbed flange. There was a slight issue that I realized while making the gearbox housing model, since I had placed both pinion and gear in the middle of their shafts, there was a slight 0.03 in offset on either side just to have them properly mesh with each other. This in turn is why my housing sticks out a bit on the gear side. I also decided not to use parametric equations since 
+Both of these images here are the outside and inside of the gearbox housing, I decided to apply a couple of material properties to some of the models such as; making both pinion and gear out of brass as stated in their McMaster description, both shafts being made from 1045 steel cold drawn, both McMaster bearing made of 841 Bronze, the gearbox housing made out of ABS. I also added the six bolts, with nuts and washers on both sides of the webbed flange. There was a slight issue that I realized while making the gearbox housing model, since I had placed both pinion and gear in the middle of their shafts, there was a slight 0.03 in offset on either side just to have them properly mesh with each other. This in turn is why my housing sticks out a bit on the gear side. I also decided not to use parametric equations since there was no reason to, the shafts had no defining equations since they were already pre-defined, same goes for the gears, the bearings I decided to download off of McMaster and use them in my assembly directly.
 
 -_Outside of Gearbox Housing_
 
