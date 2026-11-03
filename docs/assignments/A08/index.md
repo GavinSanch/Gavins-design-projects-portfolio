@@ -2,12 +2,28 @@
 
 ## **Objective**
 
+-Design a gearbox that can be assembled and disassembled.
 
-## Analyze
+-Analyze and size input and output shafts for strength.
 
+-Design journal bearings to support shafts.
 
-## Decide
+-Create a gearbox housing with proper clearance and fastening.
 
+-Use parametric CAD modeling to generate a final design.
 
-## Communicate
+-Document calculations, sketches, and lessons learned.
 
+## **Assumptions**
+
+## **Shafts**
+
+## **Journal Bearings**
+
+## **Housing Sketch**
+
+## **CAD**
+
+## **Time Taken for Completion**
+
+## **Link to CAD Models**
