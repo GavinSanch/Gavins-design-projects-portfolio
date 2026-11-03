@@ -32,6 +32,8 @@ Some of the assumptions/notes we were allowed to assume or take note of while do
 
 ## **Shafts**
 
+These four images lay out FBD's, Calculations, Knowns/Unknowns, and Equations used for determining if both the input and output shaft diameter were adequate enough based on the calculated torsional shear stress. Both shafts had more than efficient diameters based on torsional shear and the factor of safety I calculated, using 1045 steel. I did not however assume the weight of the gear and pinion being applied to the shaft to help not only help keep the calculations simple but to also prevent me calculating the bending stress effecting the shaft due to the weight of the pinion and gear. I also calculated the input torque and input speed, since they will both be necessary for not just these first couple of calculations but also for later calculations.
+
 -_Input Shaft_
 
 <img width="3024" height="4032" alt="IMG_3515" src="https://github.com/user-attachments/assets/2336e137-546e-49df-8c09-d64f7ea5744c" />
@@ -45,6 +47,8 @@ Some of the assumptions/notes we were allowed to assume or take note of while do
 <img width="3024" height="4032" alt="IMG_3518" src="https://github.com/user-attachments/assets/74db8741-49ad-4bf9-9e27-b9620ca19b33" />
 
 ## **Journal Bearings**
+
+These four images show my Calculations, FBD's, Knowns/Unknowns, and Equations used for determining the size, length, and thickness for both my input and output journal bearings. The journal bearings required a little bit more calculating since I needed the tangential force, area, pressure, velocity, and radial force so I could obtain the PV factor for both input and output to help me determine the appropriate material for the bearings which came out to be poupous bronze based on the Machineries Handbook. Thankfully though getting the thickness of both bearings was not as difficult since all it required was assuming the OD of both, and on top of this I decided to include and calculate hoop and radial stress in my calculations. The thickness for both journals came out to be 0.0625 in which is very adequate, this in turn would make the OD-in=0.250 in and the OD-out=0.375 in.
 
 -_Sizing and Length of Journals_
 
