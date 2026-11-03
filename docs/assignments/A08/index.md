@@ -48,7 +48,7 @@ These four images lay out FBD's, Calculations, Knowns/Unknowns, and Equations us
 
 ## **Journal Bearings**
 
-These four images show my Calculations, FBD's, Knowns/Unknowns, and Equations used for determining the size, length, and thickness for both my input and output journal bearings. The journal bearings required a little bit more calculating since I needed the tangential force, area, pressure, velocity, and radial force so I could obtain the PV factor for both input and output to help me determine the appropriate material for the bearings which came out to be poupous bronze based on the Machineries Handbook. Thankfully though getting the thickness of both bearings was not as difficult since all it required was assuming the OD of both, and on top of this I decided to include and calculate hoop and radial stress in my calculations. The thickness for both journals came out to be 0.0625 in which is very adequate, this in turn would make the OD-in=0.250 in and the OD-out=0.375 in.
+These four images show my Calculations, FBD's, Knowns/Unknowns, and Equations used for determining the size, length, and thickness for both my input and output journal bearings. The journal bearings required a little bit more calculating since I needed the tangential force, area, pressure, velocity, and radial force so I could obtain the PV factor for both input and output to help me determine the appropriate material for the bearings which came out to be poupous bronze based on the Machineries Handbook. Thankfully though getting the thickness of both bearings was not as difficult since all it required was assuming the OD of both, and on top of this I decided to include and calculate hoop and radial stress in my calculations. The thickness for both journals came out to be 0.0625 in which is very adequate, this in turn would make the OD-in=0.250 in and the OD-out=0.375 in. The two journal bearings I pulled from McMaster are as follows 6391K111_Oil-Embedded 841 Bronze Sleeve Bearing, for the input bearing, and 6391K131_Oil-Embedded 841 Bronze Sleeve Bearing, for the output bearing, both of which will be used in my CAD Assembly.
 
 -_Sizing and Length of Journals_
 
@@ -64,9 +64,13 @@ These four images show my Calculations, FBD's, Knowns/Unknowns, and Equations us
 
 ## **Gearbox Housing Sketch**
 
+This here is just a rough sketch of my Gearbox Housing that I constructed really quickly, I decided to make the housing circular to better fit around the gears and help distribute forces easier compared to a rectangular box. However, as I said this is just a rough sketch and I decided to add extra features in my CAD models. Also, the way I decided to fixate both parts of the housing was with a webbed feature on both ends with six holes to accommodate for six bolts.
+
 <img width="3024" height="4032" alt="IMG_3523" src="https://github.com/user-attachments/assets/be0d31bd-9818-4c32-a456-4e51c86bdbfe" />
 
 ## **CAD**
+
+Both of these images here are the outside and inside of the gearbox housing, I decided to apply a couple of material properties to some of the models such as; making both pinion and gear out of brass as stated in their McMaster description, both shafts being made from 1045 steel cold drawn, both McMaster bearing made of 841 Bronze, the gearbox housing made out of ABS. I also added the six bolts, with nuts and washers on both sides of the webbed flange. There was a slight issue that I realized while making the gearbox housing model, since I had placed both pinion and gear in the middle of their shafts, there was a slight 0.03 in offset on either side just to have them properly mesh with each other. This in turn is why my housing sticks out a bit on the gear side. I also decided not to use parametric equations since 
 
 -_Outside of Gearbox Housing_
 
