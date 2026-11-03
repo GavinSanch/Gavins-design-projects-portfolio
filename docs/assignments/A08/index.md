@@ -32,9 +32,13 @@ Some of the assumptions/notes we were allowed to assume or take note of while do
 
 ## **Shafts**
 
+-_Input Shaft_
+
 <img width="3024" height="4032" alt="IMG_3515" src="https://github.com/user-attachments/assets/2336e137-546e-49df-8c09-d64f7ea5744c" />
 
 <img width="3024" height="4032" alt="IMG_3516" src="https://github.com/user-attachments/assets/826d4895-ada9-441d-b9a2-edb00d148829" />
+
+-_Output Shaft_
 
 <img width="3024" height="4032" alt="IMG_3517" src="https://github.com/user-attachments/assets/1f1e0be4-3067-4f55-bec6-c635017b4f99" />
 
@@ -42,9 +46,13 @@ Some of the assumptions/notes we were allowed to assume or take note of while do
 
 ## **Journal Bearings**
 
+-_Sizing and Length of Journals_
+
 <img width="3024" height="4032" alt="IMG_3519" src="https://github.com/user-attachments/assets/5d51c775-6341-4941-ac19-4f4efb5f2253" />
 
 <img width="3024" height="4032" alt="IMG_3520" src="https://github.com/user-attachments/assets/77decc54-118d-47aa-99b0-d08cb12dbd8b" />
+
+-_Thickness of Jounrals_
 
 <img width="3024" height="4032" alt="IMG_3521" src="https://github.com/user-attachments/assets/88919fc8-64f7-4158-a116-d9bd7a8194a5" />
 
@@ -56,10 +64,21 @@ Some of the assumptions/notes we were allowed to assume or take note of while do
 
 ## **CAD**
 
+-_Outside of Gearbox Housing_
+
 <img width="958" height="649" alt="Screenshot 2026-11-03 052155" src="https://github.com/user-attachments/assets/67519da8-35d0-467e-9683-2eaa9d15498d" />
+
+-_Inside of Gearbox Housing_
 
 <img width="889" height="591" alt="Screenshot 2026-11-03 052220" src="https://github.com/user-attachments/assets/8e7c7277-f236-4e6c-be2b-9199a1ef241c" />
 
+## **Lessons Learned**
+
+
+
 ## **Time Taken for Completion**
 
+
+
 ## **Link to CAD Models**
+
