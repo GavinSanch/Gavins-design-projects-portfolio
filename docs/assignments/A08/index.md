@@ -1,4 +1,4 @@
-# A8 – Gears
+# A8 – Gearbox Design
 
 ## **Objective**
 
