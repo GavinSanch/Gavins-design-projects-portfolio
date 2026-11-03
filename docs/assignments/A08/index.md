@@ -56,6 +56,10 @@ Some of the assumptions/notes we were allowed to assume or take note of while do
 
 ## **CAD**
 
+<img width="958" height="649" alt="Screenshot 2026-11-03 052155" src="https://github.com/user-attachments/assets/67519da8-35d0-467e-9683-2eaa9d15498d" />
+
+<img width="889" height="591" alt="Screenshot 2026-11-03 052220" src="https://github.com/user-attachments/assets/8e7c7277-f236-4e6c-be2b-9199a1ef241c" />
+
 ## **Time Taken for Completion**
 
 ## **Link to CAD Models**
