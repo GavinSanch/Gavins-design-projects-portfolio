@@ -22,6 +22,8 @@ The pictures below show my calculations, FBD, and knowns/unknowns for determinin
 
 ## **Part 2:  Minimum Shaft Diameter**
 
+There was not a lot to do for part 2 which is easy to see as I fit my knowns/unknowns, FBD, and calculations all on one page, the reason I say this is because we are not dealing with transverse force or radial force since those both mostly apply to gears. Instead, here I just found the torque based the pulleys radius and the subtraction between the two forces. Then once torque was found all I needed was torsional sheer stress equation to give me a minimum diameter of 0.196 inches.
+
 <img width="3024" height="4032" alt="IMG_3554" src="https://github.com/user-attachments/assets/7a2b5768-86f8-428f-894c-6595bfa1cecd" />
 
 ## **Part 3: Bearings**
