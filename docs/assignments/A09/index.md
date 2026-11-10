@@ -36,9 +36,14 @@ Part 3 was not very difficult easier since now I have experience calculating the
 
 ## **Part 4: Frame Design**
 
+This image here shows a rough sketch of my frame design that I came up based on engineering analysis/stress analysis.
+
 <img width="3024" height="4032" alt="IMG_3557" src="https://github.com/user-attachments/assets/4d9b9843-f2e1-45ee-ac13-619de14dc2f6" />
 
 ## **Engineering Lesson**
 
+An engineering lesson I learned while working on A9 was that it is even possible to determine belt dimensions if given enough assumptions, I generally at first had no idea that it was even possible since belts can come in a range of diameters and configurations such as a serpentine belt for an engine. I know now that it is possible to obtain the diemsnions of a belt wether it be circular, grooved, V, e.t.c. as long as you have enough assumptions to back it up.
+
 ## **Time Taken**
 
+Total time take on A9: 3 hours
