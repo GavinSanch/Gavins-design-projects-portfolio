@@ -2,16 +2,13 @@
 
 ## **Objective**
 
--
+-Based on Pulley Dimensions/Pulley Material, RPM, and Material of Belt determine Diameter/Circumference/Part# on McMaster for belt
 
--
+-Based on forces use stress and material of shaft to determine minimum diameter of the shaft
 
--
+-Based on Machineries Handbook, Pressure, Velocity, and PV Factor find a suitable material to make the bearings out of
 
--
-
--
-
+-Based on all these three factors design a frame that can support the pulley system
 
 ## **Part 1: Belt Selection**
 
