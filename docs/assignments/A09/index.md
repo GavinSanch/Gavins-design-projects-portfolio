@@ -28,6 +28,8 @@ There was not a lot to do for part 2 which is easy to see as I fit my knowns/unk
 
 ## **Part 3: Bearings**
 
+Part 3 was not very difficult easier since now I have experience calculating the PV Factor, pressure, and velocity upon the bearing. However, I did have to make a few assumptions such as making the nominal diameter of the shaft 0.250 inches which would allow me to make the bearing length 0.250 inches as well. Once I made those assumptions, I was able to calculate P, V, and the PV factor of the bearing, and with those values and based on information of the book I landed on the same bearing material that was chosen for A8, Porous Bronze 841.
+
 <img width="3024" height="4032" alt="IMG_3555" src="https://github.com/user-attachments/assets/0826f682-b95a-43c4-8f9d-88df8fa9ce77" />
 
 <img width="3024" height="4032" alt="IMG_3556" src="https://github.com/user-attachments/assets/72e46d00-f9c0-4d2e-b2e4-03eca8663410" />
