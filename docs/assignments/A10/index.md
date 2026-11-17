@@ -1,13 +1,33 @@
-# A10 – Lead Screw Translating System
+# A10 – Lead Screw System
 
-## Objective
+## **Teammemebers**
+
+-Jason Corum
+
+-Tai Podvojsky
+
+-Gavin Sanchez
+
+## **Objective**
 
 
-## Analyze
+## **Lead Screw Design**
 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## **Nut Design**
 
-## Communicate
+
+## **Crosshead Design**
+
+
+## **Cost of Parts**
+
+
+## **CAD Model**
+
+
+## **Lesons Learned**
+
+
+## **Time Spent on Assignment**
 
